@@ -14,7 +14,6 @@
 	- Can we identify non essential aspects which we can ignore
 
 ### Computational Thinking Mental Models
-- This can be classified as:
 	- **Problem Identification**
 	- **Decomposition**
 	- **Pattern Recoginication**
@@ -46,7 +45,7 @@
 - I need a cake for grandmother's birthday party 
 - This is a very high level overview of the problem, so we would need some clarifying answers to get more clarity on this. Some questions can help like:
 	- What kind of cake does she like?
-	- Does she have allergy to anything?
+	- Does she have an allergy to anything?
 	- Any decorations on the cake?
 	- How many folks are coming?
 	- When is the party (time-deadline)?
@@ -60,7 +59,9 @@
 - The whole problem solving could be linear in process or it can also be parallel in nature
 - Sometimes, you need to solve the sub-problems in some order and sometimes, the order of solving the sub problems doesn't matter
 
-## Week 2: 
+## Week 2:  Case Study: Airport Surveillance and Image Analysis
+
+* 
 
 
 
