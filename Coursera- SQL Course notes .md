@@ -1,8 +1,4 @@
 ---
-
-
----
-
 <h2 id="getting-started-with-sql--coursera-notes">Getting Started with SQL- Coursera (Notes)</h2>
 <ul>
 <li>Primer in the fundamentals of the SQL</li>
