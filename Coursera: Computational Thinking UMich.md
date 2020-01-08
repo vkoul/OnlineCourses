@@ -2,34 +2,37 @@
 
 
 ### Computational Thinking Overview
-- Problem solving approaches for computers to use for solve problems
-- With computers now becoming more ubiquotous, they are used to solve our problems
+- Problem solving approaches for computers to use to solve problems
+- Computers are now ubiquotous, they are used to solve our problems
 - In order to computers to help us, we need to tell them - we do this using programming
-- Computer program is a set of instuctions to solve problems- We can do it in many languages like Python, C
+- Computer program is a set of instuctions to solve problems- We can do it in many languages like `Python`, `C`
 - Although programming is not the first step, we need to develop a conceptual approach to solve the problem 
 - Computational thinking is essentially the blueprint to solve a problem 
 	- Is the problem solvable by the computer
 	- Can we break the problems into sub-problems
 	- Can we see familar patterns/ characteristics
 	- Can we identify non essential aspects which we can ignore
+
+### Computational Thinking Mental Models
 - This can be classified as:
-	- Problem Identification 
-	- Decomposition
-	- Pattern Recoginication 
-	- Abstraction
-- We have subjective problems like , "what is the funniest movie". These kind of problems are not solvable by computers
-- In problem Identifaction, we work on :
+	- **Problem Identification**
+	- **Decomposition**
+	- **Pattern Recoginication**
+	- **Abstraction**
+-  Subjective problems like, "what is the funniest movie?". These kind of problems are not solved by computers
+
+- In problem identification, we work on :
 	- Topic: What is the big problem which we are working on to solve
 	- Data: What is the data which we require to solve the problem
 	- Feasibility: Can you solve the problem with current information? Is the problem solveable with a computer
 
 - Problem Decomposition: 
 	- Can we break the big problem into sub-problems?
-	- Tree charts, flow charts can helps us do this well
-	- Solving the sub-problems, will help us solve the big problem
+	- Tree charts and flow charts can help us do this well
+	- Solving the sub-problems will help us solve the big problem
 
 - Pattern Recoginition
-	- Can we think of familiar patterns or characteristic which can help us solve the problems?
+	- Can we think of familiar patterns or characteristics which can help us solve the problems?
 	- How are the sub-problems similar or dis-similar to the other problems which you have solved? 
 
 - Abstraction 
@@ -37,7 +40,8 @@
 	- Are some parts essential to solve the problems or we can get rid of it
 	- Worrying too much about the non-essential companents would lead to doing too much at the expense of a successful problem solving
 
-Baking A cake
+#### Example of computational thinking
+**Baking a cake**
 
 - I need a cake for grandmother's birthday party 
 - This is a very high level overview of the problem, so we would need some clarifying answers to get more clarity on this. Some questions can help like:
@@ -51,13 +55,12 @@ Baking A cake
 	- Cake Algorithm
 	- Frosting Algorithm
 	- Presentation Algorithm
-	- Transportation Algortithm
-- After breaking down the whole process in above steps, we need to write the corresponding program for computer to act on it
+	- Transportation Algorithm
+- After breaking down the whole process in the above steps, we need to write the corresponding program for the computer to act on it
 - The whole problem solving could be linear in process or it can also be parallel in nature
-- Someties, you need to solve the sub-problems in some order and sometimes, the order of solving the sub problems doesn't matter
+- Sometimes, you need to solve the sub-problems in some order and sometimes, the order of solving the sub problems doesn't matter
 
-
-## Week 2
+## Week 2: 
 
 
 
