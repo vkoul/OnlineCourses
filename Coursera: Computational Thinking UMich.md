@@ -61,8 +61,45 @@
 
 ## Week 2:  Case Study: Airport Surveillance and Image Analysis
 
-* 
+* Surveliance has 24*7 videos and we need to identify suspicious behaviour from the videos
+* How to identify the potential threat from a massive set of videos?
+* Important Questions : 
+	* What is supicious behaviour? 
+	* How to identify it? 
+	* How do you quantify it?
+	* How to tell a computer to identify the supicious behaviour for us?
+* Ques: Why is this a good problem for computers to solve?
+	* Coz videos are series of images and images are essentially numbers for computers and it can analyse the numbers at scale which humans can't? 
 
+###  Image Analysis : Abstraction and Algos
+* Main question is to abstract this information and put it in an algorithm
+* We would like to be able to do:
+	* Seprate background to detect movement
+	* Identify packages and people
+	* Track packages and people
+* UMich Prof's have developed an alogorithm called `GRASTA` which is able to separate background from moving objects in real time
+	* `GRASTA` : Grassmanian Robust Adaptive Subspace Tracking Algorithm
+* How can we identify objects and people : Artifical Intelligence and specifically ML within that
+* Essentially, we need to have an algorithm to check suspicious behaviour for every frame:
+	* Are there any objects which are not moving?
+	* If yes, are they accompanied by a person,
+	* if no, then how long have they been there? If it's too much to raise an alarm 
+* How we followed the principles of computation thinking in this case study : 
+	* **decompose** it into sub-problems. Some of these sub-problems include: separating background and foreground images to detect movement, identifying packages and people, and tracking packages and people.
+	* To help solve these sub-problems, we engaged in **pattern recognition** by recognizing that unattended packages should qualify as "suspicious behavior."
+	* In the **abstraction** phase, we began to identify what information was relevant to our problem, and what information could be ignored. For instance, we can ignore some stationary objects and background posters, but we can't ignore packages and people. 
+### Evaluate Algorithms
+* Break down the tasks and check for the individually 
+* Combine elements into simple tests: Use short videos with low resolutions
+* One can't identify all the edge cases, but we should be able to identify as many cases as possible
+
+### Computation Thinking - II
+* In the first iteration of this problem, we **decomposed** it into sub-problems. Some of these sub-problems included: separating background and foreground images to detect movement, identifying packages and people, and tracking packages and people. 
+* In the second iteration of this problem, we **decomposed** our problem again by asking "how long is too long for a package to left alone?"
+* To help solve these sub-problems, we engaged in **pattern recognition**. In the second iteration, we needed to determine how long is "too long" for a package to be left alone. By looking back at previous surveillance videos, we could establish a normal amount of time for people to leave their luggage.
+* In the **abstraction** phase of iteration one, we identified what information was relevant to our problem, and what information could be ignored.
+
+## [Week 3:  Case Study: Introduction to Epidemiology Case-Study](https://www.coursera.org/learn/compthinking/exam/u6i6Z/airport-surveillance-case-study-quiz)
 
 
 
