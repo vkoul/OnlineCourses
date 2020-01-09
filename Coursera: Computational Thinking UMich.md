@@ -40,9 +40,9 @@
 	- Worrying too much about the non-essential companents would lead to doing too much at the expense of a successful problem solving
 
 #### Example of computational thinking
-**Baking a cake**
 
-- I need a cake for grandmother's birthday party 
+**Baking a cake for Grandmother's Birthday Party**
+
 - This is a very high level overview of the problem, so we would need some clarifying answers to get more clarity on this. Some questions can help like:
 	- What kind of cake does she like?
 	- Does she have an allergy to anything?
