@@ -14,10 +14,11 @@
 	- Can we identify non essential aspects which we can ignore
 
 ### Computational Thinking Mental Models
-	- **Problem Identification**
-	- **Decomposition**
-	- **Pattern Recoginication**
-	- **Abstraction**
+- **Problem Identification**
+- **Decomposition**
+- **Pattern Recoginication**
+- **Abstraction**
+
 -  Subjective problems like, "what is the funniest movie?". These kind of problems are not solved by computers
 
 - In problem identification, we work on :
@@ -113,8 +114,31 @@
 - millions of people are affected every year by flu
 - Globally 10% of adults and 20-30% of children get affected by flu
 - most of them are mild, however few of the cases can get complicated
+- Every year the virus is slightly related to the old one causing seasonal flu or a totally new one causing a **pandemic**
 
-#### Background
+#### Problem Preparation 
+- how can we prevent as many infections as possible?
+- how to treat those who get affected?
+- how to minimise the health and economic costs of flu?
+
+#### Problem Solving
+Tools we have:
+- Flu vaccine
+- Antivirals
+- Other prevention strategies: social distancing, handwashing etc
+
+#### Computational Thinking usage
+- Predict how many cases we can get and how severe those cases would be and set aside resources as per that
+- help determine the best prevention strategies in different settings
+-  Who should get priortized in resources are limited?
+- In all the above cases, we have algorithms helping us out
+
+## Abstraction and Decomposition
+- 
+
+
+ 
+
 
 
 
