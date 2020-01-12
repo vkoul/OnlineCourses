@@ -101,6 +101,20 @@
 
 ## [Week 3:  Case Study: Introduction to Epidemiology Case-Study](https://www.coursera.org/learn/compthinking/exam/u6i6Z/airport-surveillance-case-study-quiz)
 
+- The major challenges in Public health are:
+	- Is there a new epidemic or pandemic coming?
+	- Best way to prevent people from getting sick?
+	- Promote healthy habits in people for ex. how to cut down smoking?
+
+
+## Problem Identification
+
+#### Background
+- millions of people are affected every year by flu
+- Globally 10% of adults and 20-30% of children get affected by flu
+- most of them are mild, however few of the cases can get complicated
+
+#### Background
 
 
 
