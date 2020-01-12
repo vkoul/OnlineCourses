@@ -136,8 +136,23 @@ Tools we have:
 - In all the above cases, we have algorithms helping us out
 
 ## Abstraction and Decomposition
-- 
 
+Building a model of ** flu transmission** .  Abstracting the pieces
+
+* Would like to predict how many people get infected in a year as a function of how many people are vaccinated before the virus shows up?
+* How virus spread in your city/town?
+	* Schools/ buses/ subways 
+* How do people get infected? Where do they get infected?
+* We need to extract the key ingredients from this complex problem, so as to help us understand what is crucial in case of identifying the disease
+* How much detail should we have in our model?
+	* Depends on time and data we have
+*  We can have three sets of people in the population : *Infected* , *Recovered* and *Suspectible* 
+
+```mermaid
+graph LR
+Suspectible --> Infected(Infected)
+Infected --> Recovered{Recovered}
+```
 
  
 
