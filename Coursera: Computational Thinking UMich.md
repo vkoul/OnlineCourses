@@ -14,10 +14,12 @@
 	- Can we identify non essential aspects which we can ignore
 
 ### Computational Thinking Mental Models
-- **Problem Identification**
-- **Decomposition**
-- **Pattern Recoginication**
-- **Abstraction**
+
+The four mental models are :
+	- **Problem Identification**
+	- **Decomposition**
+	- **Pattern Recoginication**
+	- **Abstraction**
 
 -  Subjective problems like, "what is the funniest movie?". These kind of problems are not solved by computers
 
