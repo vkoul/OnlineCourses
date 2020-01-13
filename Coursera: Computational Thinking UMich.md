@@ -18,7 +18,7 @@
 The four mental models are :
 	- **Problem Identification**
 	- **Decomposition**
-	- **Pattern Recoginication**
+	- **Pattern Recoginition**
 	- **Abstraction**
 
 -  Subjective problems like, "what is the funniest movie?". These kind of problems are not solved by computers
@@ -135,7 +135,7 @@ Tools we have:
 -  Who should get priortized in resources are limited?
 - In all the above cases, we have algorithms helping us out
 
-## Abstraction and Decomposition
+#### Abstraction and Decomposition
 
 Building a model of ** flu transmission** .  Abstracting the pieces
 
@@ -150,10 +150,15 @@ Building a model of ** flu transmission** .  Abstracting the pieces
 
 ```mermaid
 graph LR
-Suspectible --> Infected(Infected)
+Suspectible ----> Infected(Infected)
 Infected --> Recovered{Recovered}
 ```
+- The suspectible can be affected and infected will be recovered. We need to understand the parameters, how S will become I and how I can become R. This is the workhorse model which we will use. 
 
+### #### Epidemiology: Algorithms and Evaluating Solutions - Part 1
+- we have three parameters, S, I and R 
+- And then people transform from one state to another
+- 
  
 
 
