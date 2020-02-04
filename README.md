@@ -1,6 +1,6 @@
 # Online :computer: Courses :books:  and Notes :notebook:
 
-Online courses which I have completed along with my notes and reviews(to be added)
+Online courses which I have completed along with my notes and reviews (to be added)
 
 
 <details>
