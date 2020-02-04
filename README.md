@@ -1,10 +1,10 @@
-# OnlineCourses and Notes
+# Online :computer: Courses :books:  and Notes :notebook:
 
 Online courses which I have completed along with my notes and reviews(to be added)
 
 
 <details>
-  <summary> Course Notes </summary>
+  <summary> Course Notes :notebook: </summary> :notebook:
 
 * [Coursera- SQL Course notes](https://github.com/vkoul/OnlineCourses/blob/master/Coursera-%20SQL%20Course%20notes%20.md)
 * [Coursera: Computational Thinking UMich](https://github.com/vkoul/OnlineCourses/blob/master/Coursera:%20Computational%20Thinking%20UMich.md)
@@ -14,7 +14,7 @@ Online courses which I have completed along with my notes and reviews(to be adde
 
 
 <details>
-  <summary> Datacamp Courses </summary>
+  <summary> Datacamp Courses :books: </summary>
   
 
 # [Datacamp](www.datacamp.com)
