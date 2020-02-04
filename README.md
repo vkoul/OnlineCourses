@@ -4,7 +4,7 @@ Online courses which I have completed along with my notes and reviews(to be adde
 
 
 <details>
-  <summary> Course Notes :notebook: </summary> :notebook:
+  <summary> Course Notes :notebook: </summary> 
 
 * [Coursera- SQL Course notes](https://github.com/vkoul/OnlineCourses/blob/master/Coursera-%20SQL%20Course%20notes%20.md)
 * [Coursera: Computational Thinking UMich](https://github.com/vkoul/OnlineCourses/blob/master/Coursera:%20Computational%20Thinking%20UMich.md)
