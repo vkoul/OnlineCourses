@@ -1,7 +1,21 @@
-# OnlineCourses
+# OnlineCourses and Notes
 
-Online courses which I have completed along with my review (to be updated)
+Online courses which I have completed along with my notes and reviews(to be added)
 
+
+<details>
+  <summary> Course Notes </summary>
+
+* [Coursera- SQL Course notes](https://github.com/vkoul/OnlineCourses/blob/master/Coursera-%20SQL%20Course%20notes%20.md)
+* [Coursera: Computational Thinking UMich](https://github.com/vkoul/OnlineCourses/blob/master/Coursera:%20Computational%20Thinking%20UMich.md)
+
+</details>
+
+
+
+<details>
+  <summary> Datacamp Courses </summary>
+  
 
 # [Datacamp](www.datacamp.com)
 
@@ -32,3 +46,5 @@ Online courses which I have completed along with my review (to be updated)
   
 9) [**Exploratory Data Analysis in R: Case Study**](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
     * [*Certificate*](https://www.datacamp.com/statement-of-accomplishment/course/417329e7090463364ca21c6587e7fee80d811d36)
+
+</details>
