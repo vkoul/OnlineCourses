@@ -1,5 +1,5 @@
 
-# 2020- Learning goals
+# Learning goals
 
 - Become a pro in Python programming language
 - Ability to write ML and Stats algos from scratch in Python 
@@ -45,6 +45,10 @@
 #### ML
  - [ ] 8) ML in Python - Stanford
  - [ ] 9)  Applied ML - MILA
+
+### Edx
+ - [ ] 1)  Computational Thinking XSeries - MIT
+ - [ ] 2) Data Science and Statistics Micromasters - MIT
 
 
 
