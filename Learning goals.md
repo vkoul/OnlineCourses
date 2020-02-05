@@ -3,8 +3,6 @@
 
 - Become a pro in Python programming language
 - Ability to write ML and Stats algos from scratch in Python 
-- Become a good coder/data analyst
-
 
 ### Yandex Practicum
 - [ ]  1) Practicum Data Analyst Track
@@ -47,8 +45,9 @@
  - [ ] 9)  Applied ML - MILA
 
 ### Edx
- - [ ] 1)  Computational Thinking XSeries - MIT
+ - [ ] 1) Computational Thinking XSeries - MIT
  - [ ] 2) Data Science and Statistics Micromasters - MIT
+ - [ ] 3) Business Analytics Micromasters - MIT
 
 
 
