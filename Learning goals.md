@@ -49,5 +49,14 @@
  - [ ] 2) Data Science and Statistics Micromasters - MIT
  - [ ] 3) Business Analytics Micromasters - MIT
 
+### Machine Learning - Theoretical 
+ - [ ] 1) Learning from Data - Caltech (YouTube- YT)
+ - [ ] 2) Bloomberg Machine Learning - (YT)
+ - [ ] 3) Applied Machine Learning -(Columbia, YT) 
+ - [ ] 4) Machine Learning - (Cornell- YT) 
+ - [ ] 5) Machine Learning - (CMU - YT) 
+ - [ ] 6 ) Machine Learning (UBC- YT) 
+ - [ ] 7) Machine Learning (IIT-M - YT) 
+
 
 
