@@ -61,7 +61,9 @@
 ### University Materials 
  - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions) 
  - [ ] 2) Intro to AI with Python - Harvard
- - [ ] 3)  Computational Probability and Inference
+ - [ ] 3)  Computational Probability and Inference (MITx) 
+ - [ ] 4) CS 109A- Harvard 
+ - [ ] 5) CS109B- Harvard
  
 
 
