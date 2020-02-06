@@ -5,18 +5,18 @@
 - Ability to write ML and Stats algos from scratch in Python 
 
 ### Yandex Practicum
-- [ ]  1) Practicum Data Analyst Track
+- [ ]  1) Practicum Data Analyst track
 - [ ] 2) Practicum Data Scientist track
 
 ### Datacamp
 
 - [ ]  1) Datacamp Python Programmer skill track 
-- [ ]  2) Datacamp Data Manipulation Track 
+- [ ]  2) Datacamp Data Manipulation track 
 - [ ]  3) Datacamp Machine Learning Python track 
-- [ ]  4) Datacamp Marketing Analytics Track 
+- [ ]  4) Datacamp Marketing Analytics track 
 
 ### Dataquest
-- [ ]  1) Data Analyst Track
+- [ ]  1) Data Analyst track
 - [ ]  2)  Data Scientist track
 - [ ]  3)  Data Engineer track
 
@@ -52,7 +52,7 @@
 ### Machine Learning - Theoretical 
  - [ ] 1) Learning from Data - Caltech (YouTube- YT)
  - [ ] 2) Bloomberg Machine Learning - (YT)
- - [ ] 3) Applied Machine Learning -(Columbia, YT) 
+ - [ ] 3) Applied Machine Learning - (Columbia, YT) 
  - [ ] 4) Machine Learning - (Cornell- YT) 
  - [ ] 5) Machine Learning - (CMU - YT) 
  - [ ] 6 ) Machine Learning (UBC- YT) 
