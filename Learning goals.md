@@ -5,7 +5,7 @@
 - Ability to write ML and Stats algos from scratch in Python 
 
 ### Yandex Practicum
-- [ ]  1) Practicum Data Analyst track
+- [ ] 1) Practicum Data Analyst track
 - [ ] 2) Practicum Data Scientist track
 
 ### Datacamp
@@ -30,7 +30,7 @@
 
  - [ ] 1) Python Programming - University of Michigan  
  - [ ] 2) Statistics in Python - University of Michigan  
- - [ ] 3) Computational Thinking
+ - [ ] 3) Computational Thinking - University of Michigan  
 
 #### Applied
  - [ ] 4) Applied Data Science in Python - University of Michigan
@@ -42,7 +42,7 @@
 
 #### ML
  - [ ] 8) ML in Python - Stanford
- - [ ] 9)  Applied ML - MILA
+ - [ ] 9) Applied ML - MILA
 
 ### Edx
  - [ ] 1) Computational Thinking XSeries - MIT
@@ -61,7 +61,7 @@
 ### University Materials 
  - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions) 
  - [ ] 2) Intro to AI with Python - Harvard
- - [ ] 3)  Computational Probability and Inference (MITx) 
+ - [ ] 3)  Computational Probability and Inference - (MITx) 
  - [ ] 4) CS 109A- Harvard 
  - [ ] 5) CS109B- Harvard
  
