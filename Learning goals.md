@@ -58,5 +58,10 @@
  - [ ] 6 ) Machine Learning (UBC- YT) 
  - [ ] 7) Machine Learning (IIT-M - YT) 
 
+### University Materials 
+ - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions) 
+ - [ ] 2) Intro to AI with Python - Harvard
+ - [ ] 3)  Computational Probability and Inference
+ 
 
 
