@@ -55,7 +55,7 @@
  - [ ] 3) Applied Machine Learning - (Columbia, YT) 
  - [ ] 4) Machine Learning - (Cornell- YT) 
  - [ ] 5) Machine Learning - (CMU - YT) 
- - [ ] 6 ) Machine Learning (UBC- YT) 
+ - [ ] 6) Machine Learning (UBC- YT) 
  - [ ] 7) Machine Learning (IIT-M - YT) 
 
 ### University Materials 
