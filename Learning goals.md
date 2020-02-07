@@ -1,5 +1,5 @@
 
-# Learning goals
+# Learning goals - Data Science
 
 - Become a pro in Python programming language
 - Ability to write ML and Stats algos from scratch in Python 
