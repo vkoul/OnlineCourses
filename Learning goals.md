@@ -65,5 +65,30 @@
  - [ ] 4) CS 109A- Harvard 
  - [ ] 5) CS109B- Harvard
  
+ ### Harvard/ Stanford / MIT Courses
+The Data Science master program essentially amounts to 10-12 graduate level courses. The US options are pretty expensive, there are also online offerings now, which despite being cheaper than the on-campus version are expensive especially for the developing country learners. 
+I am noting down top notch (as per me) courses from the Top-3 US universities. If one manages to complete them all, it essentially is equivalent to studying for a masters degree in data science
+
+**Maths**
+1) MITx Calculus Series 
+2) Harvardx- Applied Calculus
+
+3) MITx Probability 
+4) Harvardx Probability 
+
+5) MIT ocw Gilbert Strang Linear Algebra
+
+**Programming**
+1) MITx - Intro to Programming 
+2) MITx - Intro to Computational Thinking 
+
+**Maths and Programming**
+1) MITx - Probablistic Programming
+2) Harvardx - Python for Research
+
+**Data Science** 
+1) Harvard CS 109 A
+2) Harvard CS109 B
+
 
 
