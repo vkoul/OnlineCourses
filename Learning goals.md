@@ -65,7 +65,7 @@
  - [ ] 4) CS 109A- Harvard 
  - [ ] 5) CS109B- Harvard
  
- ### Harvard/ Stanford / MIT Courses
+ ### Harvard/ Stanford / MIT / NYU/ Caltech Courses
 The Data Science master program essentially amounts to 10-12 graduate level courses. The US options are pretty expensive, there are also online offerings now, which despite being cheaper than the on-campus version are expensive especially for the developing country learners. 
 I am noting down top notch (as per me) courses from the Top-3 US universities. If one manages to complete them all, it essentially is equivalent to studying for a masters degree in data science
 
@@ -77,6 +77,7 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 4) Harvardx Probability 
 
 5) MIT OCW Gilbert Strang Linear Algebra
+
 6) NYU - Statistical and Mathematical Methods for Data Science
 
 **Programming**
@@ -95,9 +96,10 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 
 **Machine Learning**
 1) Stanfordx - Statistical Learning
-2) Stanford - Machine Learning (Coursera)
+2) Stanfordx - Machine Learning (Coursera)
 3) MIT (open learning) - Intro to ML (undergrad) 
 4) MITx - Python ML - from Linear Model to DL (post grad)
+5) Caltech - Learning from Data
  
 
 
