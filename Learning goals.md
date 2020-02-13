@@ -76,11 +76,13 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 3) MITx Probability 
 4) Harvardx Probability 
 
-5) MIT ocw Gilbert Strang Linear Algebra
+5) MIT OCW Gilbert Strang Linear Algebra
+6) NYU - Statistical and Mathematical Methods for Data Science
 
 **Programming**
 1) MITx - Intro to Programming 
 2) MITx - Intro to Computational Thinking 
+3) Computational Thinking - UPenn
 
 **Maths and Programming**
 1) MITx - Probablistic Programming
@@ -89,6 +91,13 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 **Data Science** 
 1) Harvard CS 109 A
 2) Harvard CS109 B
+3) NYU Introduction to Data Science 
 
+**Machine Learning**
+1) Stanfordx - Statistical Learning
+2) Stanford - Machine Learning (Coursera)
+3) MIT (open learning) - Intro to ML (undergrad) 
+4) MITx - Python ML - from Linear Model to DL (post grad)
+ 
 
 
