@@ -4,7 +4,7 @@
 ### Computational Thinking Overview
 - Problem solving approaches for computers to use to solve problems
 - Computers are now ubiquotous, they are used to solve our problems
-- In order to computers to help us, we need to tell them - we do this using programming
+- In order for computers to help us, we need to tell them - we do this using programming
 - Computer program is a set of instuctions to solve problems- We can do it in many languages like `Python`, `C`
 - Although programming is not the first step, we need to develop a conceptual approach to solve the problem 
 - Computational thinking is essentially the blueprint to solve a problem 
@@ -102,7 +102,7 @@ The four mental models are :
 * To help solve these sub-problems, we engaged in **pattern recognition**. In the second iteration, we needed to determine how long is "too long" for a package to be left alone. By looking back at previous surveillance videos, we could establish a normal amount of time for people to leave their luggage.
 * In the **abstraction** phase of iteration one, we identified what information was relevant to our problem, and what information could be ignored.
 
-## [Week 3:  Case Study: Introduction to Epidemiology Case-Study](https://www.coursera.org/learn/compthinking/exam/u6i6Z/airport-surveillance-case-study-quiz)
+## [Week 3:  Case Study: Introduction to Epidemiology](https://www.coursera.org/learn/compthinking/exam/u6i6Z/airport-surveillance-case-study-quiz)
 
 - The major challenges in Public health are:
 	- Is there a new epidemic or pandemic coming?
@@ -150,17 +150,33 @@ Building a model of ** flu transmission** .  Abstracting the pieces
 
 ```mermaid
 graph LR
-Suspectible ----> Infected(Infected)
+Suspectible ---> Infected(Infected)
 Infected --> Recovered{Recovered}
 ```
+
 - The suspectible can be affected and infected will be recovered. We need to understand the parameters, how S will become I and how I can become R. This is the workhorse model which we will use. 
 
-### #### Epidemiology: Algorithms and Evaluating Solutions - Part 1
-- we have three parameters, S, I and R 
+ #### Epidemiology: Algorithms and Evaluating Solutions - Part 1
+#### Infection --> Recovered
+- We have three parameters, S, I and R 
 - And then people transform from one state to another
+- We will assume that there are a certain percentage of people who recover on a particular day, lets assume it to be 10% 
+	- So on any given day, 10% people are recovered. 
+- If I = 1000 and r = 10% , then people who will recover will be I * r = 100, people getting recovered everyday
 - 
+#### Suspectible  --> Infection 
+- For an infection to occur, S should meet an I. 
+- In the meeting, the probability of getting infected- let's call it p 
+- Also, how people will get infected will depend on how many people are in S and how many people are in I
+##### Contacts
+- We need to model a network - specific movement and interaction of folks meeting. Otherwise, we will have to come up with a way count/estimate all interactions
+- Lets also have a parameter : *c*, which is the rate at which people meet each other
+- Number of meetings in a day = *c* \* *I*  \* *S*
+- Avg. number of infections in a day : p * c * I * S
  
 
+
+## [Week 4:  Case Study: Human Trafficking]
 
 
 
