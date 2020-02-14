@@ -4,6 +4,8 @@
 - Become a pro in Python programming language
 - Ability to write ML and Stats algos from scratch in Python 
 
+## Hands on Platforms
+
 ### Yandex Practicum
 - [ ] 1) Practicum Data Analyst track
 - [ ] 2) Practicum Data Scientist track
@@ -26,6 +28,7 @@
 ### MLCourse.ai
 - [ ]  1)  Data Scientist track
 
+## Theoritical
 
 ### Coursera
 
