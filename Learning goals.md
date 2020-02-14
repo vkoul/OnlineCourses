@@ -9,7 +9,6 @@
 - [ ] 2) Practicum Data Scientist track
 
 ### Datacamp
-
 - [ ]  1) Datacamp Python Programmer skill track 
 - [ ]  2) Datacamp Data Manipulation track 
 - [ ]  3) Datacamp Machine Learning Python track 
@@ -23,6 +22,10 @@
 ### Codeacademy
 - [ ]  1)  Data Scientist track
 - [ ]  2)  Computer Science track
+
+### MLCourse.ai
+- [ ]  1)  Data Scientist track
+
 
 ### Coursera
 
