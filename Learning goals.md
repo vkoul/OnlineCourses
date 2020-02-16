@@ -28,12 +28,11 @@
 ### MLCourse.ai
 - [ ]  1)  Data Scientist track
 
-## Theoritical
+## Theoretical
 
 ### Coursera
 
 #### Stats/ Python/ Computational Thinking
-
  - [ ] 1) Python Programming - University of Michigan  
  - [ ] 2) Statistics in Python - University of Michigan  
  - [ ] 3) Computational Thinking - University of Michigan  
@@ -50,10 +49,10 @@
  - [ ] 8) ML in Python - Stanford
  - [ ] 9) Applied ML - MILA
 
-### Edx
+### edx
  - [ ] 1) Computational Thinking XSeries - MIT
  - [ ] 2) Data Science and Statistics Micromasters - MIT
- - [ ] 3) Business Analytics Micromasters - MIT
+ - [ ] 3) Business Analytics Micromasters - Columbia
 
 ### Machine Learning - Theoretical 
  - [ ] 1) Learning from Data - Caltech (YouTube- YT)
