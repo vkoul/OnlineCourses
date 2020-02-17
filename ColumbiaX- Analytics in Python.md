@@ -9,10 +9,10 @@
 
 ## Week 2 Notes- Python Crash Course
 
-* We also have collections in Python along with the basic data types- this is arrays and vectors
+* We also have collections in Python along with the basic data types- these are arrays and vectors to put in different data datatypes
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Njc5MDA1NywxODYzMjAyMTk3LC0xMD
-U4MzIxMDU3XX0=
+eyJoaXN0b3J5IjpbLTE2NDM1MzM5MTMsMTg2MzIwMjE5NywtMT
+A1ODMyMTA1N119
 -->
