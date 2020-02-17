@@ -10,10 +10,13 @@
 ## Week 2 Notes- Python Crash Course
 
 * We also have collections [Data Structures] in Python along with the basic data types- these are arrays and vectors to put in different data datatypes
-* `list` is one of the basic collections in 
+* `list` is one of the basic collections in Python
+	* are mutable
+	* ordered
+	* 
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTQyNjM3NywxOTc0NzYxMDA2LDE4Nj
+eyJoaXN0b3J5IjpbMTg0NTc2MzUxNCwxOTc0NzYxMDA2LDE4Nj
 MyMDIxOTcsLTEwNTgzMjEwNTddfQ==
 -->
