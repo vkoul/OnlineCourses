@@ -1,7 +1,11 @@
 # Online :computer: Courses :books:  and Notes :notebook:
 
-Online courses which I have completed along with my notes and reviews (to be added)
+Notes from the resources which I have referred along course reviews (to be added)
 
+<details>
+  <summary> Youtube Lecture Notes :arrow_forward: </summary> 
+
+</details>
 
 <details>
   <summary> Course Notes :notebook: </summary> 
