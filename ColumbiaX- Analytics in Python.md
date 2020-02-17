@@ -3,11 +3,8 @@
 
 1) Division of two `int` in python always gives out a `float `
 2) Strings are not mutable 
-
 3) `strings.find()` can be used to fetch the location of a particular text in a string
-
 4) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE1MjM5NzIsLTEwNTgzMjEwNTddfQ
-==
+eyJoaXN0b3J5IjpbMjExMjA0NjU1MiwtMTA1ODMyMTA1N119
 -->
