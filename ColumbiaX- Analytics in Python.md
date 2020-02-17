@@ -18,10 +18,11 @@
 * `y = list()` or `y = []` creates an empty list 
 * `x.append()` adds element to the end of the list 
 	* Takes only one argument
+* `x.insert(0, "Half")` helps us to insert the values. We can specify the location of the element 
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTY3MzMxNyw5MDE0NTU3MjksLTUxMD
+eyJoaXN0b3J5IjpbLTk2NDUyOTIyNiw5MDE0NTU3MjksLTUxMD
 U4Nzk3MywtMTM4NzM1NDU5NywtOTU4MjI0MjM5LDE5NzQ3NjEw
 MDYsMTg2MzIwMjE5NywtMTA1ODMyMTA1N119
 -->
