@@ -27,12 +27,14 @@
 * **Calling elements from a list** Lists are indexed and can be sliced
 * **Removing items from a list**:
 	* `x.pop(y)` - Remove the element at the location y
-	* `x.remove(z)` - Remove z from the list
-	* 
+	* `x.pop()`- Removes the last item in the list
+	* `x.remove(z)` - Remove first z from the list
+	
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTQ3OTQzNywxMTE3MzE5MjcyLC0xMD
-M5OTU5OTA3LDQwMTQwMzU5Niw5MDE0NTU3MjksLTUxMDU4Nzk3
-MywtMTM4NzM1NDU5NywtOTU4MjI0MjM5LDE5NzQ3NjEwMDYsMT
-g2MzIwMjE5NywtMTA1ODMyMTA1N119
+eyJoaXN0b3J5IjpbMTkxNTQxNTk3LDExMTczMTkyNzIsLTEwMz
+k5NTk5MDcsNDAxNDAzNTk2LDkwMTQ1NTcyOSwtNTEwNTg3OTcz
+LC0xMzg3MzU0NTk3LC05NTgyMjQyMzksMTk3NDc2MTAwNiwxOD
+YzMjAyMTk3LC0xMDU4MzIxMDU3XX0=
 -->
