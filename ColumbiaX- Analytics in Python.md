@@ -37,12 +37,13 @@
 * `list` objects are immutable in python
 	* We can change the elements of a list 
 
-
-* 
+### Tuples
+* They are similar to lists, essential difference is that they are immutable
+* We might want to work on the data elements one by one and working with the individual componets 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM3Nzc1NTcsMTkzOTIzOTE2NywxOT
-E1NDE1OTcsMTExNzMxOTI3MiwtMTAzOTk1OTkwNyw0MDE0MDM1
-OTYsOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzODczNTQ1OTcsLT
-k1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgz
-MjEwNTddfQ==
+eyJoaXN0b3J5IjpbMjA5MTgzNDMzNywxOTM5MjM5MTY3LDE5MT
+U0MTU5NywxMTE3MzE5MjcyLC0xMDM5OTU5OTA3LDQwMTQwMzU5
+Niw5MDE0NTU3MjksLTUxMDU4Nzk3MywtMTM4NzM1NDU5NywtOT
+U4MjI0MjM5LDE5NzQ3NjEwMDYsMTg2MzIwMjE5NywtMTA1ODMy
+MTA1N119
 -->
