@@ -16,15 +16,18 @@
 	* collection of related objects
 * list can contain objects of different data types and can also contain other lists
 * `y = list()` or `y = []` creates an empty list 
+* Addi
 * `x.append()` adds element to the end of the list **as it is**
 	* Takes only one argument
 * `x.insert(0, "Half")` helps us to insert the values. We can specify the location of the element 
 * `x.extend([1, 2, 3]) ` by this, we can take a list and add it to an extending list. It will **unpack the list** and append it to the existing list
 * Lists are indexed and can be sliced
-* Remvi
+* We can remove items from a list:
+	* `x.pop(y)` - Remove the element at the location y
+	* `x.remove(z)` - Remove z from the list
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzk2MTY0MCwtMTAzOTk1OTkwNyw0MD
+eyJoaXN0b3J5IjpbMjA0NDg2MTQ4MiwtMTAzOTk1OTkwNyw0MD
 E0MDM1OTYsOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzODczNTQ1
 OTcsLTk1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIxOTcsLT
 EwNTgzMjEwNTddfQ==
