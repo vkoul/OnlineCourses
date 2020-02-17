@@ -39,9 +39,10 @@
 
 ### Tuples
 * They are similar to lists, essential difference is that they are immutable
-* We might want to work on the data elements one by one and working with the individual componets 
+* We might want to work on the data elements one by one and working with the individual components
+*  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTgzNDMzNywxOTM5MjM5MTY3LDE5MT
+eyJoaXN0b3J5IjpbLTQwMzU0MDE4NSwxOTM5MjM5MTY3LDE5MT
 U0MTU5NywxMTE3MzE5MjcyLC0xMDM5OTU5OTA3LDQwMTQwMzU5
 Niw5MDE0NTU3MjksLTUxMDU4Nzk3MywtMTM4NzM1NDU5NywtOT
 U4MjI0MjM5LDE5NzQ3NjEwMDYsMTg2MzIwMjE5NywtMTA1ODMy
