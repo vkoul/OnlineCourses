@@ -16,14 +16,15 @@
 	* collection of related objects
 * list can contain objects of different data types and can also contain other lists
 * `y = list()` or `y = []` creates an empty list 
-* `x.append()` adds element to the end of the list 
+* `x.append()` adds element to the end of the list **as it is**
 	* Takes only one argument
 * `x.insert(0, "Half")` helps us to insert the values. We can specify the location of the element 
-* `x.extend([1, 2, 3]) ` by this, we can take a list and add it to an extending list. It will unpack the list and append it to the existing list
+* `x.extend([1, 2, 3]) ` by this, we can take a list and add it to an extending list. It will **unpack the list** and append it to the existing list
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNDAzNTk2LDkwMTQ1NTcyOSwtNTEwNT
-g3OTczLC0xMzg3MzU0NTk3LC05NTgyMjQyMzksMTk3NDc2MTAw
-NiwxODYzMjAyMTk3LC0xMDU4MzIxMDU3XX0=
+eyJoaXN0b3J5IjpbLTEwMzk5NTk5MDcsNDAxNDAzNTk2LDkwMT
+Q1NTcyOSwtNTEwNTg3OTczLC0xMzg3MzU0NTk3LC05NTgyMjQy
+MzksMTk3NDc2MTAwNiwxODYzMjAyMTk3LC0xMDU4MzIxMDU3XX
+0=
 -->
