@@ -14,7 +14,7 @@
 
 * `list` is one of the basic collections in Python. `[]`are used to generate list 
 	* mutable
-	* ordered or sequential collection - sequence of elements matters
+	* ordered or sequential collection - can access them by indexing
 	* collection of related objects
 * list can contain objects of different data types and can also contain other lists
 * `y = list()` or `y = []` creates an empty list 
@@ -40,7 +40,7 @@
 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDczNTA2OTMsMTkzOTIzOTE2NywxOT
+eyJoaXN0b3J5IjpbLTEwODM3Nzc1NTcsMTkzOTIzOTE2NywxOT
 E1NDE1OTcsMTExNzMxOTI3MiwtMTAzOTk1OTkwNyw0MDE0MDM1
 OTYsOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzODczNTQ1OTcsLT
 k1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgz
