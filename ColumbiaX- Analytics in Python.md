@@ -13,10 +13,11 @@
 * `list` is one of the basic collections in Python
 	* mutable
 	* ordered or sequential collection - sequence of elements matters
-	* collection of 
+	* collection of related objects
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODczNTQ1OTcsLTk1ODIyNDIzOSwxOT
-c0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgzMjEwNTddfQ==
+eyJoaXN0b3J5IjpbLTE4MzM1MzIwNTgsLTEzODczNTQ1OTcsLT
+k1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgz
+MjEwNTddfQ==
 -->
