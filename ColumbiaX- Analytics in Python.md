@@ -19,10 +19,11 @@
 * `x.append()` adds element to the end of the list 
 	* Takes only one argument
 * `x.insert(0, "Half")` helps us to insert the values. We can specify the location of the element 
-* `x.extend([1, 2, 3]) ` by this, we can take a list and add it to an extending list. It will unpack the list and append it to the ex
+* `x.extend([1, 2, 3]) ` by this, we can take a list and add it to an extending list. It will unpack the list and append it to the existing list
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg4NTIwNDIsOTAxNDU1NzI5LC01MT
-A1ODc5NzMsLTEzODczNTQ1OTcsLTk1ODIyNDIzOSwxOTc0NzYx
-MDA2LDE4NjMyMDIxOTcsLTEwNTgzMjEwNTddfQ==
+eyJoaXN0b3J5IjpbNDAxNDAzNTk2LDkwMTQ1NTcyOSwtNTEwNT
+g3OTczLC0xMzg3MzU0NTk3LC05NTgyMjQyMzksMTk3NDc2MTAw
+NiwxODYzMjAyMTk3LC0xMDU4MzIxMDU3XX0=
 -->
