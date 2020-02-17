@@ -15,11 +15,13 @@
 	* ordered or sequential collection - sequence of elements matters
 	* collection of related objects
 * list can contain objects of different data types and can also contain other lists
-* `y = list()` creates an empty list 
+* `y = list()` or `y = []` creates an empty list 
+* `x.append()` adds element to the end of the list 
+	* Takes only one argument
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzOD
-czNTQ1OTcsLTk1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIx
-OTcsLTEwNTgzMjEwNTddfQ==
+eyJoaXN0b3J5IjpbMTU1OTY3MzMxNyw5MDE0NTU3MjksLTUxMD
+U4Nzk3MywtMTM4NzM1NDU5NywtOTU4MjI0MjM5LDE5NzQ3NjEw
+MDYsMTg2MzIwMjE5NywtMTA1ODMyMTA1N119
 -->
