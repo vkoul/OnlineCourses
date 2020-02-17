@@ -10,8 +10,9 @@ Notes from the resources which I have referred along course reviews (to be added
 <details>
   <summary> Course Notes :notebook: </summary> 
 
-* [Coursera- SQL Course notes](https://github.com/vkoul/OnlineCourses/blob/master/Coursera-%20SQL%20Course%20notes%20.md)
-* [Coursera: Computational Thinking UMich](https://github.com/vkoul/OnlineCourses/blob/master/Coursera:%20Computational%20Thinking%20UMich.md)
+* [Coursera- SQL Course notes - UCSD](https://github.com/vkoul/Self_Learning/blob/master/CourseNotes/Coursera_SQL_Notes.md)
+* [Coursera: Computational Thinking - UMich](https://github.com/vkoul/Self_Learning/blob/master/CourseNotes/Coursera:%20Computational%20Thinking%20UMich.md)
+* [Edx- Analytics in Python - Columbia Univ.](https://github.com/vkoul/Self_Learning/blob/master/CourseNotes/ColumbiaX-%20Analytics%20in%20Python.md)
 
 </details>
 
