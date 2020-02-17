@@ -20,11 +20,12 @@
 	* Takes only one argument
 * `x.insert(0, "Half")` helps us to insert the values. We can specify the location of the element 
 * `x.extend([1, 2, 3]) ` by this, we can take a list and add it to an extending list. It will **unpack the list** and append it to the existing list
-* 
+* Lists are indexed and can be sliced
+* Remvi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk5NTk5MDcsNDAxNDAzNTk2LDkwMT
-Q1NTcyOSwtNTEwNTg3OTczLC0xMzg3MzU0NTk3LC05NTgyMjQy
-MzksMTk3NDc2MTAwNiwxODYzMjAyMTk3LC0xMDU4MzIxMDU3XX
-0=
+eyJoaXN0b3J5IjpbMTQyNzk2MTY0MCwtMTAzOTk1OTkwNyw0MD
+E0MDM1OTYsOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzODczNTQ1
+OTcsLTk1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIxOTcsLT
+EwNTgzMjEwNTddfQ==
 -->
