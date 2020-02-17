@@ -36,10 +36,13 @@
 * `int`,  `str`, `bool`, `float` are immutable. 5 will remain a 5, we can't make it 8 
 * `list` objects are immutable in python
 	* We can change the elements of a list 
+
+
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTIzOTE2NywxOTE1NDE1OTcsMTExNz
-MxOTI3MiwtMTAzOTk1OTkwNyw0MDE0MDM1OTYsOTAxNDU1NzI5
-LC01MTA1ODc5NzMsLTEzODczNTQ1OTcsLTk1ODIyNDIzOSwxOT
-c0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgzMjEwNTddfQ==
+eyJoaXN0b3J5IjpbLTEyNDczNTA2OTMsMTkzOTIzOTE2NywxOT
+E1NDE1OTcsMTExNzMxOTI3MiwtMTAzOTk1OTkwNyw0MDE0MDM1
+OTYsOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzODczNTQ1OTcsLT
+k1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgz
+MjEwNTddfQ==
 -->
