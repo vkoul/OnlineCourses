@@ -1,5 +1,5 @@
 
-## Week 1 Notes- Python 
+## Week 1 Notes- Python Crash Course
 
 * Division of two `int` in python always gives out a `float `
 * Strings are not mutable 
@@ -14,10 +14,12 @@
 	* mutable
 	* ordered or sequential collection - sequence of elements matters
 	* collection of related objects
+* list can contain objects of different data types and can also contain other lists
+* `y = list()` creates an empty list 
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDU4Nzk3MywtMTM4NzM1NDU5NywtOT
-U4MjI0MjM5LDE5NzQ3NjEwMDYsMTg2MzIwMjE5NywtMTA1ODMy
-MTA1N119
+eyJoaXN0b3J5IjpbOTAxNDU1NzI5LC01MTA1ODc5NzMsLTEzOD
+czNTQ1OTcsLTk1ODIyNDIzOSwxOTc0NzYxMDA2LDE4NjMyMDIx
+OTcsLTEwNTgzMjEwNTddfQ==
 -->
