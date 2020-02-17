@@ -33,11 +33,13 @@
 	
 #### Mutability
 * Every object in Python is either mutable or immutable
-* `int`,  `str`, `bool`, `float` are immutable. A 5 will remain 5, we can't make it 8 
-* `list` objects are immutable in py
+* `int`,  `str`, `bool`, `float` are immutable. 5 will remain a 5, we can't make it 8 
+* `list` objects are immutable in python
+	* We can change the elements of a list 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2Njg3OTMwLDE5MTU0MTU5NywxMTE3Mz
-E5MjcyLC0xMDM5OTU5OTA3LDQwMTQwMzU5Niw5MDE0NTU3Mjks
-LTUxMDU4Nzk3MywtMTM4NzM1NDU5NywtOTU4MjI0MjM5LDE5Nz
-Q3NjEwMDYsMTg2MzIwMjE5NywtMTA1ODMyMTA1N119
+eyJoaXN0b3J5IjpbMTkzOTIzOTE2NywxOTE1NDE1OTcsMTExNz
+MxOTI3MiwtMTAzOTk1OTkwNyw0MDE0MDM1OTYsOTAxNDU1NzI5
+LC01MTA1ODc5NzMsLTEzODczNTQ1OTcsLTk1ODIyNDIzOSwxOT
+c0NzYxMDA2LDE4NjMyMDIxOTcsLTEwNTgzMjEwNTddfQ==
 -->
