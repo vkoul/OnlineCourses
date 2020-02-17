@@ -9,6 +9,7 @@
 
 ## Week 2 Notes- Python Crash Course
 
+#### Lists
 * We also have collections [Data Structures] in Python along with the basic data types- these are arrays and vectors to put in different data datatypes
 
 * `list` is one of the basic collections in Python. `[]`are used to generate list 
@@ -30,11 +31,13 @@
 	* `x.pop()`- Removes the last item in the list
 	* `x.remove(z)` - Remove first z from the list
 	
-* 
-
+#### Mutability
+* Every object in Python is either mutable or immutable
+* `int`,  `str`, `bool`, `float` are immutable. A 5 will remain 5, we can't make it 8 
+* `list` objects are immutable in py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTQxNTk3LDExMTczMTkyNzIsLTEwMz
-k5NTk5MDcsNDAxNDAzNTk2LDkwMTQ1NTcyOSwtNTEwNTg3OTcz
-LC0xMzg3MzU0NTk3LC05NTgyMjQyMzksMTk3NDc2MTAwNiwxOD
-YzMjAyMTk3LC0xMDU4MzIxMDU3XX0=
+eyJoaXN0b3J5IjpbNTI2Njg3OTMwLDE5MTU0MTU5NywxMTE3Mz
+E5MjcyLC0xMDM5OTU5OTA3LDQwMTQwMzU5Niw5MDE0NTU3Mjks
+LTUxMDU4Nzk3MywtMTM4NzM1NDU5NywtOTU4MjI0MjM5LDE5Nz
+Q3NjEwMDYsMTg2MzIwMjE5NywtMTA1ODMyMTA1N119
 -->
