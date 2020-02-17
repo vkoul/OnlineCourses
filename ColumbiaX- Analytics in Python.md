@@ -11,12 +11,12 @@
 
 * We also have collections [Data Structures] in Python along with the basic data types- these are arrays and vectors to put in different data datatypes
 * `list` is one of the basic collections in Python
-	* are mutable
+	* mutable
 	* ordered or sequential collection
-	* 
+	* collection of 
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDAzNDI3NiwxOTc0NzYxMDA2LDE4Nj
+eyJoaXN0b3J5IjpbLTk1ODIyNDIzOSwxOTc0NzYxMDA2LDE4Nj
 MyMDIxOTcsLTEwNTgzMjEwNTddfQ==
 -->
