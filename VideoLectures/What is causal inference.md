@@ -1,5 +1,5 @@
 
-[ What is causal inference, and why should data scientists know? by Ludvig Hultt]([https://www.youtube.com/watch?v=dFp2Ou52-po](https://www.youtube.com/watch?v=dFp2Ou52-po)).
+[What is causal inference, and why should data scientists know? by Ludvig Hultt](https://www.youtube.com/watch?v=dFp2Ou52-po)
 
 * Data scientists now are just not interested in the statistical patterns, they are interested in the causal structures underlying the data 
 * Casual Inference --> Drawing conclusions about cause and effect 
