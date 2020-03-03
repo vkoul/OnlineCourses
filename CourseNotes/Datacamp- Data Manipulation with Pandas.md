@@ -18,6 +18,6 @@
 	* Since shape is an attribute of data and not a method, it doesn't have a parenthesis
 * `df.describe()` - summary statistics for numeric data
 
-* Data frames consists of three different components accessible using attributes
+Data frames consist of three different components accessible using attributes
 * `df.values` - shows the values of the dataframe in a 2-d array
 	
