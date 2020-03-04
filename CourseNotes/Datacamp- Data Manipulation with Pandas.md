@@ -67,4 +67,26 @@ is_black_or_brown = dogs["color"].isin(["Black" , "Brown"]) dogs[is_black_or_bro
   
 ## 2. Aggregating Data
 
+#### Summary Statitics
+* Calculating the central tendencies and other values
+	* `df['column'].mean()`
+	* Other calculations are : `.median()`, `.mode()`, `.min()`, `.max()`, `.var()`, `.std()`, `.sum()`, `.quantile()`,  
+* Cumulative stats- `.cumsum()`, `.cummax()`, `.cummin()`, `cumprod()`
+* These operations can run for numeric and date columns (wherever applicable) 
+* The `.agg()` method in pandas allows to create custom summary statistics
 
+```py 
+# creating a 30 percent quantile function 
+def pct30(column):
+	return column.quantile(30)
+
+# using the above function in a dataframe
+df['column1'].agg(pct30)
+
+# can also be used on more than one column
+df[['column1', 'column2'].agg(pct30) #list of columns
+
+# agg can also be used to calculate multiple summaries at once
+df['column'].agg([mean, median]) # make a list of functions 
+```
+* 
