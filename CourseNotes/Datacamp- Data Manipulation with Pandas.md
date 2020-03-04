@@ -48,12 +48,12 @@ Data frames consist of **three** different components accessible using attribute
 	* `df[df['column'] == 50]`
 	* `df[df['column'] < 50]` 
 * Text Data filters
-	* `df[df['Name_column'] == 'Razz']`
+	* `df[df['name_column'] == 'Razz']`
 * Date filters
 	* `df[df['date_column'] > '2012-02-30']`
 * Multiple row condition filters
 	 ```py
-	 df[(df["Column1"] == "XYZ") & (df["Column2"] == "PQR")] 
+	 df[(df["column1"] == "XYZ") & (df["column2"] == "PQR")] 
 	 # the conditions are written separately in parenthesis
 	 ```
  * Multiple values for a condition- we use  `.isin()` 
@@ -110,6 +110,38 @@ df['column'].agg([mean, median]) # make a list of functions
 `df.groupby('column1', 'column2)['column2'].agg([min, max, mean])`
 
 ##### Pivot Tables
+* At its core, `pivot_table` functionality is very similar to `.groupby` in pandas
+* Pivot table uses include: 
+```py
+# groupby 
+df.groupby('column2')['column1'].mean()
+
+# its equivalent in pivot table
+df.pivot_table(values = 'column1' , index = 'column2')
+## values column is the one by which to summarise and index column is the one by which you want to group by. Mean is the default summary statistics in pivot table
+
+# Using a different summary statistics
+df.pivot_table(values = 'column1', index = 'column2', aggfunc = np.median)
+
+# multiple statistics in pivot table
+df.pivot_table(values = 'column1', index = 'column2', aggfunc = [np.median, np.mean])
+
+# multiple column groupby 
+df.groupby(['column2', 'column3'])['column1'].mean()
+
+# achieving similar operations in pivot tables
+df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', aggfunc = [np.median, np.mean])
+## The output of this is similar to the spread function in R
+
+# to fill the missing values in the above step 
+df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', fill_value = 0, aggfunc = [np.median, np.mean])
+## the NaN of the data will be filled by 0 
+
+# margin argument for a total in the end 
+df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', fill_value = 0, margins = True, aggfunc = [np.median, np.mean])
+
+
+```
 
 
  
