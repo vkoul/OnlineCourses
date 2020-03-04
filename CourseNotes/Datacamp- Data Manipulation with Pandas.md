@@ -139,9 +139,9 @@ df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', fill_
 
 # margin argument for a total in the end 
 df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', fill_value = 0, margins = True, aggfunc = [np.median, np.mean])
-
-
 ```
+
+## 3. Slicing and Indexing
 
 
  
