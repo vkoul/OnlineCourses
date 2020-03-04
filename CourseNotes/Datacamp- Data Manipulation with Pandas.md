@@ -93,8 +93,7 @@ df['column'].agg([mean, median]) # make a list of functions
 #### Duplicates & Counting
 
 ##### Duplicates and Counting 
-* `df.drop_dupli
-* cates(subset = 'column')` - Drops the duplicate values in the data frame based on the column specified. 
+* `df.drop_duplicates(subset = 'column')` - Drops the duplicate values in the data frame based on the column specified. 
 * In case of multiple columns to be used: 
  `df.drop_duplicates(subset = ['column1', 'column2'])`
  * To get the frequency distribution of a column 
