@@ -32,9 +32,23 @@ Data frames consist of **three** different components accessible using attribute
 	* `ascending = False` argument will sort it in the descending order 
 * Multiple columns sort - pass the column names as list 
 	 ```py
-	 df.sort_values(["Column1", "Column2"])
+	 df.sort_values(["Column1", "Column2"], ascending = [True, False]) # specify the direction of sorting for each column
 	 ```
-	* 
-	* 
+
+#### Subsetting Columns 
+* `df['column_name']` - subsetting a particular column
+* `df[['column1', 'column2']]` - subsetting multiple columns. 
+	* We require two brackets. The inner one creates a list of column names and the outer one is for data-frame subsetting
+	* We can only seprately define a list of column names and then pass that variable to subset data, a neater method. 
+
+#### Subsetting Rows
+* We can create the subsets at a row level using logical conditions
+	* `df['column'] > 50`
+	* `df['column'] = 50`
+	* `df['column'] < 50` 
+* 
+
+
+ 
 
 	
