@@ -89,4 +89,30 @@ df[['column1', 'column2'].agg(pct30) #list of columns
 # agg can also be used to calculate multiple summaries at once
 df['column'].agg([mean, median]) # make a list of functions 
 ```
-* 
+
+#### Duplicates & Counting
+
+##### Duplicates and Counting 
+* `df.drop_dupli
+* cates(subset = 'column')` - Drops the duplicate values in the data frame based on the column specified. 
+* In case of multiple columns to be used: 
+ `df.drop_duplicates(subset = ['column1', 'column2'])`
+ * To get the frequency distribution of a column 
+	`df['column'].value_counts()`
+	* With sorting - `df['column'].value_counts(sort = True)`
+	* With normalisation - `df['column'].value_counts(normalize = True)`
+
+##### Grouping
+* Grouping is one of the important ways to calculate the summary statistics for different groups of data :
+	`df.groupby('column1')['column2'].mean()`
+* We can combine the group by with `.agg()` method to get multiple summary statistics:
+	`df.groupby('column1')['column2'].agg([min, max, mean])`
+* Grouping can also be done using multiple columns:
+`df.groupby('column1', 'column2)['column2'].agg([min, max, mean])`
+
+##### Pivot Tables
+
+
+ 
+
+ 
