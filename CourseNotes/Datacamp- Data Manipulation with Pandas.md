@@ -27,6 +27,7 @@ Data frames consist of **three** different components accessible using attribute
 * pandas has multiple ways to solve a problem, this resembles more of a swiss army knife approach
 
 ### Pandas - Sorting and subsetting
+#### Sorting columns
 * `df.sort_values('column_name')` - This is used to sort the values based on a column. 
 	* ascending order is the default
 	* `ascending = False` argument will sort it in the descending order 
@@ -43,12 +44,22 @@ Data frames consist of **three** different components accessible using attribute
 
 #### Subsetting Rows
 * We can create the subsets at a row level using logical conditions
-	* `df['column'] > 50`
-	* `df['column'] = 50`
-	* `df['column'] < 50` 
-* 
-
-
- 
+	* `df[df['column'] > 50]`
+	* `df[df['column'] == 50]`
+	* `df[df['column'] < 50]` 
+* Text Data filters
+	* `df[df['Name_column'] == 'Razz']`
+* Date filters
+	* `df[df['date_column'] > '2012-02-30']`
+* Multiple row condition filters
+	 ```py
+	 df[(df["Column1"] == "XYZ") & (df["Column2"] == "PQR")] 
+	 # the conditions are written separately in parenthesis
+	 ```
+ * Multiple values for a condition- we use  `.isin()` 
+```py
+is_black_or_brown = dogs["color"].isin(["Black" , "Brown"]) dogs[is_black_or_brown]
+```
+ * 
 
 	
