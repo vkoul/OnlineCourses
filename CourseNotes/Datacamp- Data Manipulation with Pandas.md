@@ -1,6 +1,6 @@
 
 
-## Pandas Intro 
+## 1. Transforming Data
 
 * **Pandas** can be used for data manipulation and data visualisation 
 * Pandas is built on two python libraries - **Numpy** and **Matplotlib**
@@ -60,6 +60,11 @@ Data frames consist of **three** different components accessible using attribute
 ```py
 is_black_or_brown = dogs["color"].isin(["Black" , "Brown"]) dogs[is_black_or_brown]
 ```
- * 
+ #### New Columns
+ 
+ * Use existing  columns to create new columns
+  `df['new_column'] = df['existing_column'] / 100 ` 
+  
+## 2. Aggregating Data
 
-	
+
