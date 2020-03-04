@@ -16,8 +16,25 @@
 * `df.info()` - data type and missing value info
 * `df.shape`- dimensions of the data 
 	* Since shape is an attribute of data and not a method, it doesn't have a parenthesis
-* `df.describe()` - summary statistics for numeric data
+* `df.describe()` -  computes summary statistics for numeric data
 
-Data frames consist of three different components accessible using attributes
+### Dataframe Components
+Data frames consist of **three** different components accessible using attributes
 * `df.values` - shows the values of the dataframe in a 2-d array
+* `df.columns` - An index of columns: the column names.
+* `df.index` -An index for the rows: either row numbers or row names.
+	* row labels are stored in index
+* pandas has multiple ways to solve a problem, this resembles more of a swiss army knife approach
+
+### Pandas - Sorting and subsetting
+* `df.sort_values('column_name')` - This is used to sort the values based on a column. 
+	* ascending order is the default
+	* `ascending = False` argument will sort it in the descending order 
+* Multiple columns sort - pass the column names as list 
+	 ```py
+	 df.sort_values(["Column1", "Column2"])
+	 ```
+	* 
+	* 
+
 	
