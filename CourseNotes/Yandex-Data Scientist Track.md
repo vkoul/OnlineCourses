@@ -1,17 +1,16 @@
 
-# Sprint 1 Notes
+# Yandex Practicum - Data Scientist
 
+## Sprint 1 Notes
+
+Python codes from the course:
 ```py 
 
 # Exclude values from a data-frame
 data = data[data['subcategory_id'] !=  'total']
 
-  
-
 # as type conversion
 df['column'] = df['column'].astype('int')
-
-  
 
 # datatime in python, - Python has a specific format for datetime called 'datetime'. We can use the to_datetime() to change the values into date-time
 
@@ -197,5 +196,5 @@ wordnet_lemma = WordNetLemmatizer()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE3Njg3MzddfQ==
+eyJoaXN0b3J5IjpbMzQyOTE4MjQ5LC0xMzkxNzY4NzM3XX0=
 -->
