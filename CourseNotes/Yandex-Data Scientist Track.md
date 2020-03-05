@@ -31,12 +31,9 @@ df['column'] = df['column'].astype('int')
 
 # —%S: seconds (00 to 59)
 
-  
 
 # conversion step
 arrivals['date_datetime']= pd.to_datetime(arrivals['date'], format='%d.%m.%YZ%H:%M:%S')
-
-  
 
 # There are all kinds of different ways to represent dates and times, but a particularly uncommon one is the unix time format.
 
@@ -196,5 +193,5 @@ wordnet_lemma = WordNetLemmatizer()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyOTE4MjQ5LC0xMzkxNzY4NzM3XX0=
+eyJoaXN0b3J5IjpbMTY4MDkyODM1MSwtMTM5MTc2ODczN119
 -->
