@@ -194,5 +194,34 @@ plt.show()
 df.plot(kind = "scatter", x = "column1", y = 'column2')
 plt.show()
 ```
+* Plots can also be layered on top of each other by calling them one by one
+	* `plt.legend()` can be useful to indicate the variable 
+	* `alpha` can decide the transparency level with 0 being transparent and 1 being opaque
 
+
+#### Missing Values
+* In a pandas dataframe missing values are indicated using `NaN`
+
+Missing value capabilities in pandas
+
+```py
+# detect the na across the dataset. This will give out a boolean output
+df.isna()
+
+# to see if there is at least 1 missing value
+df.isna().any()
+
+# count the missing values in the columns
+df.isna().sum()
+
+# visualizing te missing values
+df.isna().sum().plot(kind = "bar")
+plt.show()
+
+# drop the rows with missing values
+df.dropna()
+
+# filling the missing values 
+df.fillna(0)
+```
 
