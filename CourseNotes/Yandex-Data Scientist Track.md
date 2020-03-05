@@ -113,9 +113,6 @@ print("Total measurements", count_lines)
 
 print("Total erroneous rows", wrong_lines)
 
-  
-  
-
 # joining in python
 data_subcategory = data.merge(subcategory_dict, on='subcategory_id', how='left')
 
@@ -193,5 +190,5 @@ wordnet_lemma = WordNetLemmatizer()
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDkyODM1MSwtMTM5MTc2ODczN119
+eyJoaXN0b3J5IjpbNjEzMjk5MzQ5LC0xMzkxNzY4NzM3XX0=
 -->
