@@ -220,6 +220,7 @@ plt.show()
 
 # drop the rows with missing values
 df.dropna()
+## be cautious to use this, because if missing values are not absent at random, dropping the rows will introduce bias
 
 # filling the missing values 
 df.fillna(0)
