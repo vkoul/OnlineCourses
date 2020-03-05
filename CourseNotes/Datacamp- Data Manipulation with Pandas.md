@@ -130,20 +130,69 @@ df.pivot_table(values = 'column1', index = 'column2', aggfunc = [np.median, np.m
 df.groupby(['column2', 'column3'])['column1'].mean()
 
 # achieving similar operations in pivot tables
-df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', aggfunc = [np.median, np.mean])
+df.pivot_table(values = 'column1', index = 'column2', columns  = 'column3', aggfunc = [np.median, np.mean])
 ## The output of this is similar to the spread function in R
 
 # to fill the missing values in the above step 
-df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', fill_value = 0, aggfunc = [np.median, np.mean])
+df.pivot_table(values = 'column1', index = 'column2', columns  = 'column3', fill_value = 0, aggfunc = [np.median, np.mean])
 ## the NaN of the data will be filled by 0 
 
 # margin argument for a total in the end 
-df.pivot_table(values = 'column1, index = 'column2', columns  = 'column3', fill_value = 0, margins = True, aggfunc = [np.median, np.mean])
+df.pivot_table(values = 'column1', index = 'column2', columns  = 'column3', fill_value = 0, margins = True, aggfunc = [np.median, np.mean])
 ```
 
 ## 3. Slicing and Indexing
-
+#### The major benefit of index in data-frame is in the slicing and dicing of the dataframe
+* We have rows as the by default index, but we can set a  particular column as the index: `df_new = df.set_index("column_name")`
+	* To identify the index column, remember the index values are left aligned rather than right aligned
+* To undo the setting of an index -  `df_new.reset_index()` 
+	* it also has a `drop = True` argument which totally drops the column
+* How index makes things simple:
+```py
+ # subsetting
+ df[df['column'].isin(['ABC', 'PQR'])]
+ 
+ # subsetting with the help of an index. the column is the index
+ df_new.loc[["ABC", "PQR"]]
+ ## the loc filters on the index values
+```
+* The values in the `index` don't need to be unique
+* Index values don't get their own columns
+* We can also sort the data by the index values using `df.sort_index()`
+* Further control the sort index using the additional arguments
+`df.sort_index(level = ['column1', 'column2'], ascending = [True, False]`
+* The index column behaves differently than a normal dataframe column and hence there is a need to learn two syntaxes
+	* To keep code simple, one can avoid index in the data and have a consistent set of codes
 
  
 
- 
+## 4. Creating and Visualising Data 
+
+`Matplotlib` is a powerful visualization library used in python 
+##### Histogram 
+```py
+import matplotlib.pyplot as plt
+df['column'].hist()
+plt.show()
+```
+The `bins` argument can help us to adjust the number of bars in the chart
+
+##### Bars
+```py
+df['column'].plot(kind = "bar", title = "XYZ")
+plt.show()
+```
+##### Lines
+```py
+df.plot(kind = "line", x = "column1", y = 'column2')
+plt.show()
+```
+* The `rot` argument variable can be used to tilt the labels to make it more readable
+
+##### Scatter Plots
+```py
+df.plot(kind = "scatter", x = "column1", y = 'column2')
+plt.show()
+```
+
+
