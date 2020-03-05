@@ -37,7 +37,7 @@
  - [ ] 2) Statistics in Python - University of Michigan  
  - [ ] 3) Computational Thinking - University of Michigan  
 
-#### Applied
+#### Applied Data Science / ML
  - [ ] 4) Applied Data Science in Python - University of Michigan
  - [ ] 5) Python products - UC San Diego 
 
@@ -107,4 +107,9 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 5) Caltech - Learning from Data
  
 
+### Resources
+* [Open Source Masters Degree]([https://github.com/TraceMyers/open-source-degree](https://github.com/TraceMyers/open-source-degree))
+	* Can arrange my resources in the above manner
+
+* [Open Source Society University]([https://github.com/ossu/data-science](https://github.com/ossu/data-science))
 
