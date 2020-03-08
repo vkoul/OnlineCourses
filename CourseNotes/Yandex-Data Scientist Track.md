@@ -729,9 +729,9 @@ df[(df['Has_luggage']) ⎮ (df['Price'] < 200)]
 # having a negating condition and full condition
 df[~((df['Is_Direct']) ⎮ (df['Has_luggage']))]
 
-
+dfdsf
 # 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NTE3MjE5XX0=
+eyJoaXN0b3J5IjpbLTEwMTU1MzgzOTIsNDQ4NTE3MjE5XX0=
 -->
