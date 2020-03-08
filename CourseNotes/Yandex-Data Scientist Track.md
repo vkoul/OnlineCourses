@@ -729,8 +729,14 @@ df[(df['Has_luggage']) ⎮ (df['Price'] < 200)]
 # having a negating condition and full condition
 df[~((df['Is_Direct']) ⎮ (df['Has_luggage']))]
 
+
+
+
+
+
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzY0NDM4MiwtMTAxNTUzODM5Miw0ND
-g1MTcyMTldfQ==
+eyJoaXN0b3J5IjpbLTYxODMyNzAyNiwtNTIzNjQ0MzgyLC0xMD
+E1NTM4MzkyLDQ0ODUxNzIxOV19
 -->
