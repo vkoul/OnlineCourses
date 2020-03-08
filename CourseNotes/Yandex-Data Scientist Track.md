@@ -729,7 +729,7 @@ df[(df['Has_luggage']) ⎮ (df['Price'] < 200)]
 # having a negating condition and full condition
 df[~((df['Is_Direct']) ⎮ (df['Has_luggage']))]
 
-
+data["date_time"] = pd.to_datetime(data["date_time"], format = '%Y-%m-%dT%H:%M:%S')
 
 
 
@@ -737,6 +737,6 @@ df[~((df['Is_Direct']) ⎮ (df['Has_luggage']))]
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODMyNzAyNiwtNTIzNjQ0MzgyLC0xMD
-E1NTM4MzkyLDQ0ODUxNzIxOV19
+eyJoaXN0b3J5IjpbLTE3OTE2OTQxNzMsLTUyMzY0NDM4MiwtMT
+AxNTUzODM5Miw0NDg1MTcyMTldfQ==
 -->
