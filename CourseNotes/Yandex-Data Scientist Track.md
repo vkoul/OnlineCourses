@@ -735,8 +735,39 @@ data["date_time"] = pd.to_datetime(data["date_time"], format = '%Y-%m-%dT%H:%M:%
 
 
 
+if age <=  18:
+
+return  'child'
+
+if age <=  64:
+
+return  'adult'
+
+return  'retired'
+
+## text analytics
+
+# using the example
+
+text =  'Heard melodies are sweet, but those unheard Are sweeter; therefore, ye soft pipes, play on;'
+
+words = nltk.word_tokenize(text)
+
+print(words)
+
+  
+# lemmitization
+
+# WordNet Lemmatizer is imported as follows:
+
+import nltk
+
+from nltk.stem import WordNetLemmatizer
+
+wordnet_lemma = WordNetLemmatizer()
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE2OTQxNzMsLTUyMzY0NDM4MiwtMT
-AxNTUzODM5Miw0NDg1MTcyMTldfQ==
+eyJoaXN0b3J5IjpbMzYzNTc0NTM2LC0xNzkxNjk0MTczLC01Mj
+M2NDQzODIsLTEwMTU1MzgzOTIsNDQ4NTE3MjE5XX0=
 -->
