@@ -40,4 +40,40 @@
 ### Tuples
 * They are similar to lists, essential difference is that they are immutable
 * We might want to work on the data elements one by one and working with the individual components
-*  
+
+
+
+
+
+
+## Week 7 Notes- Data Analysis And Visualization: Part 1
+
+#### Numpy Intro
+*  Numpy - supports numerical and array operations and is a very fast one. 
+*  Scipy - lot of capabilities for differential eqns etc
+* **Numpy** :
+	* Very fast mechanism for dealing with arrays and matrices
+	* Most space efficient than lists. primarily coz it allows only 1 data type within an array
+	* Can incorporate C++ / Fortran code. The underlying code is C
+	* good support for Linear Algebra, Fourier transformation, Random number support
+
+* **Numpy array**
+	* basic data structure in numpy
+	* sequential collection of like objects- indexing is faster and is memory efficient 
+	* numpy arrays are mutable
+	* optimised for matrix operations
+	* provides random number support
+
+* while reading data in numpy, we can specify the data type 
+```py
+x = ['1', '2', '3']
+xi = np.array(x, 'int') # reading in as int
+xf = np.array(x, 'float') # reading in as float 
+xs = np.array(x, 'str') # reading in as str
+```
+* We can do the index in numpy using numpy[row, column]
+* We can do the slicing in the similar manner [rows_select, column_select]
+* numpy arrays can be reshaped using numpy.reshape
+* 
+
+
