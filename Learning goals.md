@@ -7,26 +7,35 @@
 ## Hands on Platforms
 
 ### Yandex Practicum
-- [ ] 1) Practicum Data Analyst track
-- [ ] 2) Practicum Data Scientist track
+- [ ]  Practicum Data Analyst track
+- [ ]  Practicum Data Scientist track
 
 ### Datacamp
-- [ ]  1) Datacamp Python Programmer skill track 
-- [ ]  2) Datacamp Data Manipulation track 
-- [ ]  3) Datacamp Machine Learning Python track 
-- [ ]  4) Datacamp Marketing Analytics track 
+- [ ]  Datacamp Python Programmer skill track 
+- [ ]  Datacamp Data Manipulation track 
+- [ ]  Datacamp Machine Learning Python track 
+- [ ]  Datacamp Marketing Analytics track 
 
 ### Dataquest
-- [ ]  1) Data Analyst track
-- [ ]  2)  Data Scientist track
-- [ ]  3)  Data Engineer track
+- [ ]  Data Analyst track
+- [ ]  Data Scientist track
+- [ ]  Data Engineer track
 
 ### Codeacademy
-- [ ]  1)  Data Scientist track
-- [ ]  2)  Computer Science track
+- [ ]  Data Scientist track
+- [ ]  Computer Science track
 
 ### MLCourse.ai
-- [ ]  1)  Data Scientist track
+- [ ]   Data Scientist track
+
+### Brilliant.org
+- [ ]  Foundational Computer Science
+- [ ]  Applied Computer Science
+- [ ]  Road to Calculus
+- [ ]  Statistics and Probability
+- [ ] Advanced Mathematics
+- [ ] 
+
 
 ## Theoretical
 
