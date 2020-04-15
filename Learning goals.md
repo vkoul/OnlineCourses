@@ -33,7 +33,7 @@
 - [ ]  Applied Computer Science
 - [ ]  Road to Calculus
 - [ ]  Statistics and Probability
-- [ ] Advanced Mathematics
+- [ ]  Advanced Mathematics
 
 ## Theoretical
 
@@ -118,8 +118,7 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
  
 
 ### Resources
-* [Open Source Masters Degree]([https://github.com/TraceMyers/open-source-degree](https://github.com/TraceMyers/open-source-degree))
+* [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
 	* Can arrange my resources in the above manner
 
-* [Open Source Society University]([https://github.com/ossu/data-science](https://github.com/ossu/data-science))
-
+* [Open Source Society University](https://github.com/ossu/data-science)
