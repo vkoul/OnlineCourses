@@ -7,14 +7,14 @@
 ## Hands on Platforms
 
 ### Yandex Practicum
-- [ ]  Practicum Data Analyst track
-- [ ]  Practicum Data Scientist track
+- [ ]  Data Analyst track
+- [ ]  Data Scientist track
 
 ### Datacamp
-- [ ]  Datacamp Python Programmer skill track 
-- [ ]  Datacamp Data Manipulation track 
-- [ ]  Datacamp Machine Learning Python track 
-- [ ]  Datacamp Marketing Analytics track 
+- [ ]  Python Programmer skill track 
+- [ ]  Data Manipulation track 
+- [ ]  Machine Learning Python track 
+- [ ]  Marketing Analytics track 
 
 ### Dataquest
 - [ ]  Data Analyst track
