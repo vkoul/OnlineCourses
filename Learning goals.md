@@ -57,20 +57,21 @@
  - [ ] 9) Applied ML - MILA
 
 ### edx
- - [ ] 1) Computational Thinking XSeries - MIT
- - [ ] 2) Data Science and Statistics Micromasters - MIT
- - [ ] 3) Business Analytics Micromasters - Columbia
+ - [ ] 1) Computational Thinking XSeries - MITx
+ - [ ] 2) Data Science and Statistics Micromasters - MITx
+ - [ ] 3) Business Analytics Micromasters - Columbiax
  - [ ] 4) Data Science Micromasters - San Diego
 
 ### Machine Learning - Theoretical 
  - [ ] 1) Learning from Data - Caltech (YouTube- YT)
  - [ ] 2) Bloomberg Machine Learning - (YT)
  - [ ] 3) Applied Machine Learning - (Columbia, YT) 
- - [ ] 4) Machine Learning - (Cornell- YT) 
+ - [ ] 4) Machine Learning - (Cornell - YT) 
  - [ ] 5) Machine Learning - (CMU - YT) 
- - [ ] 6) Machine Learning (UBC- YT) 
+ - [ ] 6) Machine Learning (UBC - YT) 
  - [ ] 7) Machine Learning (IIT-M - YT) 
  - [ ] 8) Machine Learning (Columbia - edx) 
+ - [ ] 9) Machine Learning Fundamentals (San Diego - edx) 
 
 
 ### University Materials 
