@@ -1,20 +1,27 @@
 
 # Learning goals - Data Science
 
+Made with :heart: by Vikesh. Say Hi!:wave:
+[Twitter :bird:](https://twitter.com/vikesh_koul)
+[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
+
 - Become a pro in Python programming language
 - Ability to write ML and Stats algos from scratch in Python 
 
-## Hands on Platforms
+## Hands on Courses
 
 ### Yandex Practicum
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track
 
+### MLCourse.ai
+- [ ]   Data Scientist track
+
 ### Datacamp
 - [ ]  Python Programmer skill track 
 - [ ]  Data Manipulation track 
 - [ ]  Machine Learning Python track 
-- [ ]  Marketing Analytics track ( R and Python)
+- [ ]  Marketing Analytics track (R and Python)
 
 ### Dataquest
 - [ ]  Data Analyst track
@@ -24,9 +31,6 @@
 ### Codeacademy
 - [ ]  Data Scientist track
 - [ ]  Computer Science track
-
-### MLCourse.ai
-- [ ]   Data Scientist track
 
 ### Brilliant.org
 - [ ]  Foundational Computer Science
@@ -55,6 +59,10 @@
 #### ML
  - [ ] 8) ML in Python - Stanford
  - [ ] 9) Applied ML - MILA
+ - [ ] 10) Intro to ML (HSE) *
+ - [ ] 11) ML and Data Analysis Specialisation (MIPT)* 
+
+\* HSE and MIPT courses are in Russian. However, they are in collaboration with Yandex and have one of the best balanced practical exercises. The plan is to just attempt the exercises. 
 
 ### edx
  - [ ] 1) Computational Thinking XSeries - MITx
@@ -63,7 +71,7 @@
  - [ ] 4) Data Science Micromasters - San Diego
 
 ### Machine Learning - Theoretical 
- - [ ] 1) Learning from Data - Caltech (YouTube- YT)
+ - [ ] 1) Learning from Data - Caltech (YouTube -->YT)
  - [ ] 2) Bloomberg Machine Learning - (YT)
  - [ ] 3) Applied Machine Learning - (Columbia, YT) 
  - [ ] 4) Machine Learning - (Cornell - YT) 
@@ -81,9 +89,9 @@
  - [ ] 4) CS 109A- Harvard 
  - [ ] 5) CS109B- Harvard
  
- ### Harvard/ Stanford / MIT / NYU / Caltech Courses
-The Data Science master program essentially amounts to 10-12 graduate level courses. The US options are pretty expensive, there are also online offerings now, which despite being cheaper than the on-campus version are expensive especially for the developing country learners. 
-I am noting down top notch (as per me) courses from the Top-3 US universities. If one manages to complete them all, it essentially is equivalent to studying for a masters degree in data science
+ ### Harvard / Stanford / MIT / NYU / Caltech Courses
+The Data Science master program essentially amounts to 10-12 graduate level courses. The US options are pretty expensive. There are also online offerings now, that despite being cheaper than the on-campus version are expensive especially for the developing country learners. 
+I am noting down top notch (as per me) courses from the Top US universities. If one manages to complete them all, it essentially is equivalent to studying for a masters degree in data science
 
 **Maths**
 1) MITx Calculus Series 
@@ -93,8 +101,9 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 4) Harvardx Probability 
 
 5) MIT OCW Gilbert Strang Linear Algebra
+6) MIT OCW - [Matrix method in Data Anlaysis](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
-6) NYU - Statistical and Mathematical Methods for Data Science
+7) NYU - Statistical and Mathematical Methods for Data Science
 
 **Programming**
 1) MITx - Intro to Programming 
@@ -123,3 +132,6 @@ I am noting down top notch (as per me) courses from the Top-3 US universities. I
 	* Can arrange my resources in the above manner
 
 * [Open Source Society University](https://github.com/ossu/data-science)
+
+
+
