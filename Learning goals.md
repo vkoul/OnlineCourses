@@ -14,8 +14,18 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track
 
+### Lambda School 
+- [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)
+ Eight hands on assignments
+
 ### MLCourse.ai
 - [ ]   Data Scientist track
+very hands on. Involves kaggle competitions. 
+
+### Kaggle Courses
+- [ ]   Pandas 
+- [ ]   ML  
+- [ ]  Advanced ML
 
 ### Datacamp
 - [ ]  Python Programmer skill track 
@@ -126,7 +136,7 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 4) MITx - Python ML - from Linear Model to DL (post grad)
 5) Caltech - Learning from Data
  
-
+ 
 ### Resources
 * [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
 	* Can arrange my resources in the above manner
