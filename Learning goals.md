@@ -14,7 +14,7 @@
 - [ ]  Python Programmer skill track 
 - [ ]  Data Manipulation track 
 - [ ]  Machine Learning Python track 
-- [ ]  Marketing Analytics track 
+- [ ]  Marketing Analytics track ( R and Python)
 
 ### Dataquest
 - [ ]  Data Analyst track
