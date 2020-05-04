@@ -3,6 +3,7 @@
 Made with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
+[Github :octocat:](https://github.com/vkoul)
 *** 
 
 Notes from the resources which I have referred along course reviews (to be added)
