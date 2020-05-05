@@ -1,7 +1,7 @@
 
 # Learning goals - Data Science
 
-Made with :heart: by Vikesh. Say Hi!:wave:
+Made with: Heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
@@ -14,18 +14,57 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track
 
-### Lambda School 
-- [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)
- Eight hands on assignments
-
-### MLCourse.ai
-- [ ]   Data Scientist track
-very hands on. Involves kaggle competitions. 
-
 ### Kaggle Courses
 - [ ]   Pandas 
 - [ ]   ML  
-- [ ]  Advanced ML
+- [ ]  Intermediate ML
+- [ ]  Feature Engineering
+
+### Analytics Vidhya
+- [ ] [Data Science Tips and Tricks](https://courses.analyticsvidhya.com/courses/take/data-science-hacks-tips-and-tricks)
+
+### Lambda School 
+- [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)
+- Eight hands on assignments
+
+### MLCourse.ai
+- [ ]   Data Scientist track
+- very hands on. Involves kaggle competitions. 
+
+### Google 
+- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
+
+### Udacity Projects
+#### [Udacity Data Analyst Projects](https://github.com/udacity/data-analyst/tree/master/projects_zh)
+- [ ] P0 Bike Sharing
+- [ ] P1 Stroop Test
+- [ ] P2 Investigate Dataset
+- [ ] P3 Wrangle Data
+- [ ] P4 Explore Data
+- [ ] P5 Machine Learning
+- [ ] P6 Data Viz
+- [ ]  P7 Ab Test
+- [ ] [Old] P0 Chopstick Length
+
+#### [Udacity Machine Learning Projects](https://github.com/udacity/machine-learning/tree/master/projects)
+- [ ]  Boston Housing
+- [ ]  Customer Segments
+- [ ]  Digit Recognition
+- [ ]  Finding Donors
+- [ ]  Image-Classification
+- [ ]  Intro-To-Tensorflow
+- [ ]  Practice Projects
+- [ ]  Smartcab
+- [ ]  Student Intervention
+- [ ]  Titanic Survival Exploration
+
+#### [Project: Getting Started with Iterative Product Management](https://github.com/udacity/nanodegree-data-products-course-3/blob/master/archive/backup_dpmnd_c3_solutions.ipynb)
+
+### [K2 Data Science - Foundations Program](https://github.com/k2datascience/ds-foundations/wiki)
+- [ ] CS and Python
+- [ ] SQL and Relational DBs
+- [ ] Python Data Analysis
+- [ ] Maths Refresher
 
 ### Datacamp
 - [ ]  Python Programmer skill track 
@@ -38,7 +77,7 @@ very hands on. Involves kaggle competitions.
 - [ ]  Data Scientist track
 - [ ]  Data Engineer track
 
-### Codeacademy
+### Code Academy
 - [ ]  Data Scientist track
 - [ ]  Computer Science track
 
@@ -58,7 +97,7 @@ very hands on. Involves kaggle competitions.
  - [ ] 2) Statistics in Python - University of Michigan  
  - [ ] 3) Computational Thinking - University of Michigan  
 
-#### Applied Data Science / ML
+####  Applied Data Science / ML
  - [ ] 4) Applied Data Science in Python - University of Michigan
  - [ ] 5) Python products - UC San Diego 
 
