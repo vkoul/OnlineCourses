@@ -20,16 +20,18 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - [ ]  Intermediate ML
 - [ ]  Feature Engineering
 
+### Kevin Markham Videos
+- [ ] [Machine learning with scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [ ] [Machine Learning](https://www.youtube.com/watch?v=8Oog7TXHvFY&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn)
+
 ### Analytics Vidhya
 - [ ] [Data Science Tips and Tricks](https://courses.analyticsvidhya.com/courses/take/data-science-hacks-tips-and-tricks)
 
 ### Lambda School 
-- [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)
- - Eight hands on assignments
+- [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)  - Eight hands on assignments
 
 ### [MLCourse.ai](mlcourse.ai)
-- [ ]   Data Scientist track
- - very hands on. I, involves kaggle competitions. 
+- [ ]   Data Scientist track  - very hands on, involves kaggle competitions. 
 
 ### Google 
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
@@ -81,12 +83,16 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - [ ]  Data Scientist track
 - [ ]  Computer Science track
 
-### Brilliant.org
+### [Brilliant.org](brilliant.org)
 - [ ]  Foundational Computer Science
 - [ ]  Applied Computer Science
 - [ ]  Road to Calculus
 - [ ]  Statistics and Probability
 - [ ]  Advanced Mathematics
+
+### [Data Scientist Survial Guide](https://github.com/MMBazel/Data-Scientist-Survival-Guide/wiki)
+- This is inspired by the curriculum put together by Springboard 
+
 
 ## Theoretical
 
