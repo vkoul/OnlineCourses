@@ -1,7 +1,7 @@
 
 # Learning goals - Data Science
 
-Put togther with :heart: by Vikesh. Say Hi!:wave:
+Put together with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
