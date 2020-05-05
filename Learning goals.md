@@ -1,7 +1,7 @@
 
 # Learning goals - Data Science
 
-Made with: Heart: by Vikesh. Say Hi!:wave:
+Put togther with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
@@ -25,11 +25,11 @@ Made with: Heart: by Vikesh. Say Hi!:wave:
 
 ### Lambda School 
 - [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)
-- Eight hands on assignments
+ - Eight hands on assignments
 
-### MLCourse.ai
+### [MLCourse.ai](mlcourse.ai)
 - [ ]   Data Scientist track
-- very hands on. Involves kaggle competitions. 
+ - very hands on. I, involves kaggle competitions. 
 
 ### Google 
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
