@@ -188,5 +188,19 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 
 * [Open Source Society University](https://github.com/ossu/data-science)
 
+Lots of folks/organisations have embarked on designing their own ML/DS Masters and Learning program. Links below:
 
-
+0. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
+1. [Machine Learning Path- Coursera](https://careers.coursera.org/machine-learning-engineer/)
+2. [Data Scientist Path- Coursera](https://careers.coursera.org/data-scientist/)
+3. [Data Analyst- Coursera](https://careers.coursera.org/data-analyst/)
+4. [Business Anlayst- Coursera](https://careers.coursera.org/business-analyst/)
+5. [Data Engineer](https://careers.coursera.org/data-engineer/)
+6.  [Everything you need to become a self-taught Machine Learning Engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
+7. [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+8.  [How to Learn Machine Learning - The Self Starter way](https://elitedatascience.com/learn-machine-learning)
+9. [How to become a Machine Learning Engineer - Springboard](https://www.springboard.com/blog/how-to-become-a-machine-learning-engineer/)
+10. [How did I land a job in DS field with a master’s degree?](https://towardsdatascience.com/my-way-to-break-into-data-science-international-student-interdisciplinary-e5208dead396)
+11. [My Machine Learning Path](https://hackernoon.com/my-machine-learning-path-cb6edab4630)
+12. [How to Get Started as a Developer in AI](https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f)
+13. 
