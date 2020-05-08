@@ -15,8 +15,8 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - [ ]  Data Scientist track
 
 ### Kaggle Courses
-- [ ]   Pandas 
-- [ ]   ML  
+- [ ]  Pandas 
+- [ ]  ML  
 - [ ]  Intermediate ML
 - [ ]  Feature Engineering
 
@@ -188,6 +188,7 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 
 * [Open Source Society University](https://github.com/ossu/data-science)
 
+
 Lots of folks/organisations have embarked on designing their own ML/DS Masters and Learning program. Links below:
 
 0. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
@@ -203,4 +204,4 @@ Lots of folks/organisations have embarked on designing their own ML/DS Masters a
 10. [How did I land a job in DS field with a master’s degree?](https://towardsdatascience.com/my-way-to-break-into-data-science-international-student-interdisciplinary-e5208dead396)
 11. [My Machine Learning Path](https://hackernoon.com/my-machine-learning-path-cb6edab4630)
 12. [How to Get Started as a Developer in AI](https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f)
-13. 
+13. [The Open Source Data Science Masters](http://datasciencemasters.org/)
