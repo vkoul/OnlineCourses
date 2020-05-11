@@ -9,6 +9,7 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - Ability to write ML and Stats algos from scratch in Python 
 
 I have noted down resources which will help me master the different aspects of ML. This is an exhaustive list and right now it is concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
+There are also many excellent books in the market by Springer, Manning and Oreilly. I have not included them in this as of now. 
 
 
 ## Hands on Courses
