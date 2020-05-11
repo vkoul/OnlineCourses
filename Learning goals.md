@@ -5,14 +5,17 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 [Twitter :bird:](https://twitter.com/vikesh_koul)
 [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
 
-- Become a pro in Python programming language
+- Become a pro in Python :snake: programming language
 - Ability to write ML and Stats algos from scratch in Python 
+
+I have noted down resources which will help me master the different aspects of ML. This is an exhaustive list and right now it is concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
+
 
 ## Hands on Courses
 
 ### Yandex Practicum
 - [ ]  Data Analyst track
-- [ ]  Data Scientist track
+- [ ]  Data Scientist track - Ongoing
 
 ### Kaggle Courses
 - [ ]  Pandas 
@@ -130,11 +133,13 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
  - [ ] 2) Bloomberg Machine Learning - (YT)
  - [ ] 3) Applied Machine Learning - (Columbia, YT) 
  - [ ] 4) Machine Learning - (Cornell - YT) 
- - [ ] 5) Machine Learning - (CMU - YT) 
+ - [ ] 5) Machine Learning - (CMU - YT) [2015]
  - [ ] 6) Machine Learning (UBC - YT) 
  - [ ] 7) Machine Learning (IIT-M - YT) 
  - [ ] 8) Machine Learning (Columbia - edx) 
  - [ ] 9) Machine Learning Fundamentals (San Diego - edx) 
+ - [ ] 10) Machine Learning - (CMU - YT) [2020]
+ - [ ] 11) [Machine Learning - (VU Univ, Amerstdamn)](https://mlvu.github.io/)
 
 
 ### University Materials 
@@ -182,7 +187,7 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 5) Caltech - Learning from Data
  
  
-### Resources
+### Other Resources to consult
 * [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
 	* Can arrange my resources in the above manner
 
@@ -205,3 +210,8 @@ Lots of folks/organisations have embarked on designing their own ML/DS Masters a
 11. [My Machine Learning Path](https://hackernoon.com/my-machine-learning-path-cb6edab4630)
 12. [How to Get Started as a Developer in AI](https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f)
 13. [The Open Source Data Science Masters](http://datasciencemasters.org/)
+14. [How to get a ML Engineering job in 2020](https://blog.usejournal.com/how-to-get-a-machine-learning-engineering-job-in-2020-also-why-536702e6529f?gi=db26eedd3886)
+15. [32 Data Sets to Uplift your Skills in Data Science](https://blog.datasciencedojo.com/data-sets-data-science-skills/amp/)
+16. [AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/README.md)
+17. [THE MOST EXHAUSTIVE LIST OF ONLINE ML COURSES/](https://deep-learning-drizzle.github.io/)
+18. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
