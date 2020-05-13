@@ -11,7 +11,7 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - Ability to write ML and Stats algos from scratch in Python 
 
 I have noted down resources which will help me master the different aspects of ML. This is an exhaustive list and right now it is concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
-There are also many excellent books in the market by Springer, Manning and Oreilly. I have not included them in this as of now. 
+There are also many excellent books in the market by Springer, Manning and Oreilly. I have not included them currently.
 
 
 ## Hands on Courses
@@ -142,7 +142,7 @@ There are also many excellent books in the market by Springer, Manning and Oreil
  - [ ] 8) Machine Learning (Columbia - edx) 
  - [ ] 9) Machine Learning Fundamentals (San Diego - edx) 
  - [ ] 10) Machine Learning - (CMU - YT) [2020]
- - [ ] 11) [Machine Learning - (VU Univ, Amerstdamn)](https://mlvu.github.io/)
+ - [ ] 11) [Machine Learning - (VU Univ, Amsterdam)](https://mlvu.github.io/)
 
 
 ### University Materials 
@@ -164,7 +164,7 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 4) Harvardx Probability 
 
 5) MIT OCW Gilbert Strang Linear Algebra
-6) MIT OCW - [Matrix method in Data Anlaysis](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+6) MIT OCW - [Matrix method in Data Analysis](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 7) NYU - Statistical and Mathematical Methods for Data Science
 
