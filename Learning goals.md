@@ -2,9 +2,9 @@
 # Learning goals - Data Science
 
 Put together with :heart: by Vikesh. Say Hi!:wave:
-[Twitter :bird:](https://twitter.com/vikesh_koul)
-[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
-[Github :octocat:](www.github.com/vkoul)
+* [Twitter :bird:](https://twitter.com/vikesh_koul)
+* [Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
+* [Github :octocat:](https://github.com/vkoul)
 
 - Become a pro in Python :snake: programming language
 - Ability to write ML and Stats algos from scratch in Python 
