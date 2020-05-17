@@ -11,7 +11,7 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - Ability to write ML and Stats algos from scratch in Python 
 
 I have noted down resources which will help me master the different aspects of ML. This is an exhaustive list and right now it is concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
-There are also many excellent books in the market by Springer, Manning and Oreilly. I have not included them currently.
+There are also many excellent books by Springer, Manning and Oreilly. I have not included them currently.
 
 
 ## Hands on Courses
@@ -204,7 +204,7 @@ Lots of folks/organisations have embarked on designing their own ML/DS Masters a
 2. [Machine Learning Path- Coursera](https://careers.coursera.org/machine-learning-engineer/)
 3. [Data Scientist Path- Coursera](https://careers.coursera.org/data-scientist/)
 4. [Data Analyst- Coursera](https://careers.coursera.org/data-analyst/)
-5. [Business Anlayst- Coursera](https://careers.coursera.org/business-analyst/)
+5. [Business Analyst- Coursera](https://careers.coursera.org/business-analyst/)
 6. [Data Engineer](https://careers.coursera.org/data-engineer/)
 7.  [Everything you need to become a self-taught Machine Learning Engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
 8. [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
@@ -217,5 +217,6 @@ Lots of folks/organisations have embarked on designing their own ML/DS Masters a
 15. [How to get a ML Engineering job in 2020](https://blog.usejournal.com/how-to-get-a-machine-learning-engineering-job-in-2020-also-why-536702e6529f?gi=db26eedd3886)
 16. [32 Data Sets to Uplift your Skills in Data Science](https://blog.datasciencedojo.com/data-sets-data-science-skills/amp/)
 17. [AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/README.md)
-19. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
-20. [ML Study Plan](https://github.com/python-engineer/ml-study-plan)  - [Video explaining the plan](https://www.youtube.com/watch?v=dYvt3vSJaQA)
+18. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
+19. [ML Study Plan](https://github.com/python-engineer/ml-study-plan)  - [Video explaining the plan](https://www.youtube.com/watch?v=dYvt3vSJaQA)
+20. [MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI)
