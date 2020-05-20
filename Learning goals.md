@@ -36,7 +36,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 ### Lambda School 
 - [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)  - Eight hands on assignments
 
-### [MLCourse.ai](mlcourse.ai)
+### [MLCourse.ai](https://mlcourse.ai/)
 - [ ]   Data Scientist track  - very hands on, involves kaggle competitions. 
 
 ### Google 
@@ -220,3 +220,4 @@ Lots of folks/organisations have embarked on designing their own ML/DS Masters a
 18. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
 19. [ML Study Plan](https://github.com/python-engineer/ml-study-plan)  - [Video explaining the plan](https://www.youtube.com/watch?v=dYvt3vSJaQA)
 20. [MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI)
+21. [I designed my own ML/AI degree](https://medium.com/better-programming/i-designed-my-own-machine-learning-and-artificial-intelligence-degree-5a61bfb188bb)
