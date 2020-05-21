@@ -154,11 +154,11 @@ Suspectible ---> Infected(Infected)
 Infected --> Recovered{Recovered}
 ```
 
-- The suspectible can be affected and infected will be recovered. We need to understand the parameters, how S will become I and how I can become R. This is the workhorse model which we will use. 
+- The suspectible can be affected and infected will be recovered. We need to understand the parameters, how S will become I and how I can become R. This is the workhorse model that we will use. 
 
  #### Epidemiology: Algorithms and Evaluating Solutions - Part 1
 #### Infection --> Recovered
-- We have three parameters, S, I and R 
+- We have three parameters: S, I and R 
 - And then people transform from one state to another
 - We will assume that there are a certain percentage of people who recover on a particular day, lets assume it to be 10% 
 	- So on any given day, 10% people are recovered. 
