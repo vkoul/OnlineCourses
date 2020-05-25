@@ -197,7 +197,6 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 0. [THE MOST EXHAUSTIVE LIST OF ONLINE ML COURSES/](https://deep-learning-drizzle.github.io/)
 1. [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
 		* Can arrange my resources in the above manner
-
 2.  [Open Source Society University](https://github.com/ossu/data-science)
 3. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
 
@@ -216,9 +215,10 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 16. [The Open Source Data Science Masters](http://datasciencemasters.org/)
 17. [How to get a ML Engineering job in 2020](https://blog.usejournal.com/how-to-get-a-machine-learning-engineering-job-in-2020-also-why-536702e6529f?gi=db26eedd3886)
 18. [32 Data Sets to Uplift your Skills in Data Science](https://blog.datasciencedojo.com/data-sets-data-science-skills/amp/)
-19. [AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/README.md)
+19. [ML- Tokyo- AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/README.md)
 20. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
 21. [ML Study Plan](https://github.com/python-engineer/ml-study-plan)  - [Video explaining the plan](https://www.youtube.com/watch?v=dYvt3vSJaQA)
 22. [MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI)
 23. [I designed my own ML/AI degree](https://medium.com/better-programming/i-designed-my-own-machine-learning-and-artificial-intelligence-degree-5a61bfb188bb)
 24. [Handpicked Resources for learning Deep Learning in 2020](https://towardsdatascience.com/handpicked-resources-for-learning-deep-learning-in-2020-e50c6768ab6e)	
+25. [An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning](https://github.com/soaicbe/ai_all_resources/blob/master/README.md)
