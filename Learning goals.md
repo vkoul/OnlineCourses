@@ -89,7 +89,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  Data Scientist track
 - [ ]  Computer Science track
 
-### [Brilliant.org](brilliant.org)
+### [Brilliant.org](https://brilliant.org/)
 - [ ]  Foundational Computer Science
 - [ ]  Applied Computer Science
 - [ ]  Road to Calculus
@@ -98,6 +98,11 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 ### [Data Scientist Survial Guide](https://github.com/MMBazel/Data-Scientist-Survival-Guide/wiki)
 - This is inspired by the curriculum put together by Springboard 
+
+### [Sololearn](https://www.sololearn.com/)
+- [ ]  [Python 3](https://www.sololearn.com/Course/Python/)
+- [ ]  [Data Science with Python](https://www.sololearn.com/Course/data-science/)
+- [ ]  [Machine Learning](https://www.sololearn.com/Course/machine-learning/)
 
 
 ## Theoretical
