@@ -39,6 +39,12 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 ### [MLCourse.ai](https://mlcourse.ai/)
 - [ ]   Data Scientist track  - very hands on, involves kaggle competitions. 
 
+### Algorithms from Scratch
+- [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
+- [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
+
+
+
 ### Google 
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
 
