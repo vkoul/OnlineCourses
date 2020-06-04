@@ -16,7 +16,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 ## Hands on Courses
 
-### Yandex Practicum
+### Yandex Practicum :moneybag:
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track - Ongoing
 
