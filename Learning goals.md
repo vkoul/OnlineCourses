@@ -16,11 +16,11 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 ## Hands on Courses
 
-### Yandex Practicum :moneybag:
+### Yandex Practicum
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track - Ongoing
 
-### Kaggle Courses
+### Kaggle Courses 
 - [ ]  Pandas 
 - [ ]  ML  
 - [ ]  Intermediate ML
@@ -42,6 +42,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 ### Algorithms from Scratch
 - [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
 - [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
+
 
 
 ### Google 
@@ -79,7 +80,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ] Python Data Analysis
 - [ ] Maths Refresher
 
-### Datacamp
+### Datacamp   :moneybag:
 - [ ]  Python Programmer skill track 
 - [ ]  Data Manipulation track 
 - [ ]  Machine Learning Python track 
