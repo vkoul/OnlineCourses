@@ -10,7 +10,7 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - Become a pro in Python :snake: programming language
 - Ability to write ML and Stats algos from scratch in Python 
 
-I have noted down resources which will help me master the different aspects of ML. This is an exhaustive list and right now it is concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
+I have noted down resources (free :free: and paid :moneybag:)  which will help me master the different aspects of ML. This is an exhaustive list and currently I am concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
 There are also many excellent books by Springer, Manning and Oreilly. I have not included them currently.
 
 
@@ -208,7 +208,6 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 
 0. [THE MOST EXHAUSTIVE LIST OF ONLINE ML COURSES/](https://deep-learning-drizzle.github.io/)
 1. [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
-		* Can arrange my resources in the above manner
 2.  [Open Source Society University](https://github.com/ossu/data-science)
 3. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
 
