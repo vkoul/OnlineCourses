@@ -44,7 +44,6 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
 
 
-
 ### Google 
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
 
@@ -85,6 +84,9 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  Data Manipulation track 
 - [ ]  Machine Learning Python track 
 - [ ]  Marketing Analytics track (R and Python)
+
+### Applied AI 
+- [ ] [Applied ML Course](https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course)
 
 ### Dataquest
 - [ ]  Data Analyst track
@@ -233,3 +235,4 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 23. [I designed my own ML/AI degree](https://medium.com/better-programming/i-designed-my-own-machine-learning-and-artificial-intelligence-degree-5a61bfb188bb)
 24. [Handpicked Resources for learning Deep Learning in 2020](https://towardsdatascience.com/handpicked-resources-for-learning-deep-learning-in-2020-e50c6768ab6e)	
 25. [An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning](https://github.com/soaicbe/ai_all_resources/blob/master/README.md)
+26. [How a Self-Taught Programmer Taught Himself Machine Learning in 10 Weeks](https://medium.com/paper-club/machine-learning-engineering-in-10-weeks-a9af8c739c6e)
