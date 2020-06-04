@@ -16,40 +16,38 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 ## Hands on Courses
 
-### Yandex Practicum
+### Yandex Practicum :moneybag:
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track - Ongoing
 
-### Kaggle Courses 
+### Kaggle Courses   :free:
 - [ ]  Pandas 
 - [ ]  ML  
 - [ ]  Intermediate ML
 - [ ]  Feature Engineering
 
-### Kevin Markham Videos
+### Kevin Markham Videos :free:
 - [ ] [Machine learning with scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 - [ ] [Machine Learning](https://www.youtube.com/watch?v=8Oog7TXHvFY&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn)
 
-### Analytics Vidhya
+### Analytics Vidhya :free:
 - [ ] [Data Science Tips and Tricks](https://courses.analyticsvidhya.com/courses/take/data-science-hacks-tips-and-tricks)
 
-### Lambda School 
+### Lambda School :free:
 - [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)  - Eight hands on assignments
 
-### [MLCourse.ai](https://mlcourse.ai/)
+### [MLCourse.ai](https://mlcourse.ai/) :free:
 - [ ]   Data Scientist track  - very hands on, involves kaggle competitions. 
 
-### Algorithms from Scratch
+### Algorithms from Scratch :free:
 - [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
 - [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
 
-
-
-### Google 
+### Google :free:
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
 
-### Udacity Projects
-#### [Udacity Data Analyst Projects](https://github.com/udacity/data-analyst/tree/master/projects_zh)
+### Udacity Projects :free:
+#### [Udacity Data Analyst Projects](https://github.com/udacity/data-analyst/tree/master/projects_zh) :free:
 - [ ] P0 Bike Sharing
 - [ ] P1 Stroop Test
 - [ ] P2 Investigate Dataset
@@ -60,7 +58,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  P7 Ab Test
 - [ ] [Old] P0 Chopstick Length
 
-#### [Udacity Machine Learning Projects](https://github.com/udacity/machine-learning/tree/master/projects)
+#### [Udacity Machine Learning Projects](https://github.com/udacity/machine-learning/tree/master/projects) :free:
 - [ ]  Boston Housing
 - [ ]  Customer Segments
 - [ ]  Digit Recognition
@@ -72,9 +70,9 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  Student Intervention
 - [ ]  Titanic Survival Exploration
 
-#### [Project: Getting Started with Iterative Product Management](https://github.com/udacity/nanodegree-data-products-course-3/blob/master/archive/backup_dpmnd_c3_solutions.ipynb)
+#### [Project: Getting Started with Iterative Product Management](https://github.com/udacity/nanodegree-data-products-course-3/blob/master/archive/backup_dpmnd_c3_solutions.ipynb) :free:
 
-### [K2 Data Science - Foundations Program](https://github.com/k2datascience/ds-foundations/wiki)
+### [K2 Data Science - Foundations Program](https://github.com/k2datascience/ds-foundations/wiki) :free:
 - [ ] CS and Python
 - [ ] SQL and Relational DBs
 - [ ] Python Data Analysis
@@ -86,29 +84,29 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  Machine Learning Python track 
 - [ ]  Marketing Analytics track (R and Python)
 
-### Applied AI 
+### Applied AI :moneybag:
 - [ ] [Applied ML Course](https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course)
 
-### Dataquest
+### Dataquest :moneybag:
 - [ ]  Data Analyst track
 - [ ]  Data Scientist track
 - [ ]  Data Engineer track
 
-### Code Academy
+### Code Academy :moneybag:
 - [ ]  Data Scientist track
 - [ ]  Computer Science track
 
-### [Brilliant.org](https://brilliant.org/)
+### [Brilliant.org](https://brilliant.org/) :moneybag:
 - [ ]  Foundational Computer Science
 - [ ]  Applied Computer Science
 - [ ]  Road to Calculus
 - [ ]  Statistics and Probability
 - [ ]  Advanced Mathematics
 
-### [Data Scientist Survial Guide](https://github.com/MMBazel/Data-Scientist-Survival-Guide/wiki)
+### [Data Scientist Survial Guide](https://github.com/MMBazel/Data-Scientist-Survival-Guide/wiki) :free:
 - This is inspired by the curriculum put together by Springboard 
 
-### [Sololearn](https://www.sololearn.com/)
+### [Sololearn](https://www.sololearn.com/) :free:
 - [ ]  [Python 3](https://www.sololearn.com/Course/Python/)
 - [ ]  [Data Science with Python](https://www.sololearn.com/Course/data-science/)
 - [ ]  [Machine Learning](https://www.sololearn.com/Course/machine-learning/)
@@ -116,22 +114,22 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 ## Theoretical
 
-### Coursera
+### Coursera :moneybag:
 
-#### Stats/ Python/ Computational Thinking
+#### Stats/ Python/ Computational Thinking  :moneybag:
  - [ ] 1) Python Programming - University of Michigan  
  - [ ] 2) Statistics in Python - University of Michigan  
  - [ ] 3) Computational Thinking - University of Michigan  
 
-####  Applied Data Science / ML
+####  Applied Data Science / ML  :moneybag:
  - [ ] 4) Applied Data Science in Python - University of Michigan
  - [ ] 5) Python products - UC San Diego 
 
-#### Maths
+#### Maths :moneybag:
  - [ ] 6) Math for Data Science - HSE
  - [ ] 7) Math for ML - Imperial
 
-#### ML
+#### ML :moneybag:
  - [ ] 8) ML in Python - Stanford
  - [ ] 9) Applied ML - MILA
  - [ ] 10) Intro to ML (HSE) *
@@ -139,69 +137,69 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 \* HSE and MIPT courses are in Russian. However, they are in collaboration with Yandex and have one of the best balanced practical exercises. The plan is to just attempt the exercises. 
 
-### edx
+### edx :moneybag:
  - [ ] 1) Computational Thinking XSeries - MITx
  - [ ] 2) Data Science and Statistics Micromasters - MITx
  - [ ] 3) Business Analytics Micromasters - Columbiax
  - [ ] 4) Data Science Micromasters - San Diego
 
 ### Machine Learning - Theoretical 
- - [ ] 1) Learning from Data - Caltech (YouTube -->YT)
- - [ ] 2) Bloomberg Machine Learning - (YT)
- - [ ] 3) Applied Machine Learning - (Columbia, YT) 
- - [ ] 4) Machine Learning - (Cornell - YT) 
- - [ ] 5) Machine Learning - (CMU - YT) [2015]
- - [ ] 6) Machine Learning (UBC - YT) 
- - [ ] 7) Machine Learning (IIT-M - YT) 
- - [ ] 8) Machine Learning (Columbia - edx) 
- - [ ] 9) Machine Learning Fundamentals (San Diego - edx) 
- - [ ] 10) Machine Learning - (CMU - YT) [2020]
- - [ ] 11) [Machine Learning - (VU Univ, Amsterdam)](https://mlvu.github.io/)
+ - [ ] 1) Learning from Data - Caltech (YouTube -->YT)  :free:
+ - [ ] 2) Bloomberg Machine Learning - (YT)  :free:
+ - [ ] 3) Applied Machine Learning - (Columbia, YT)   :free:
+ - [ ] 4) Machine Learning - (Cornell - YT)   :free:
+ - [ ] 5) Machine Learning - (CMU - YT) [2015]  :free:
+ - [ ] 6) Machine Learning (UBC - YT)   :free:
+ - [ ] 7) Machine Learning (IIT-M - YT)   :free:
+ - [ ] 8) Machine Learning (Columbia - edx) :moneybag:
+ - [ ] 9) Machine Learning Fundamentals (San Diego - edx) :moneybag:
+ - [ ] 10) Machine Learning - (CMU - YT) [2020]  :free:
+ - [ ] 11) [Machine Learning - (VU Univ, Amsterdam)](https://mlvu.github.io/) :free:
 
 
 ### University Materials 
- - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions) 
- - [ ] 2) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/)
- - [ ] 3)  Computational Probability and Inference - (MITx) 
- - [ ] 4) CS 109A- Harvard 
- - [ ] 5) CS109B- Harvard
+ - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions)  :free:
+ - [ ] 2) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/) :free:
+ - [ ] 3)  Computational Probability and Inference - (MITx)  :moneybag:
+ - [ ] 4) CS 109A- Harvard  :free:
+ - [ ] 5) CS109B- Harvard :free:
  
  ### Harvard / Stanford / MIT / NYU / Caltech Courses
 The Data Science master program essentially amounts to 10-12 graduate level courses. The US options are pretty expensive. There are also online offerings now, that despite being cheaper than the on-campus version are expensive especially for the developing country learners. 
 I am noting down top notch (as per me) courses from the Top US universities. If one manages to complete them all, it essentially is equivalent to studying for a masters degree in data science
 
 **Maths**
-1) MITx Calculus Series 
-2) Harvardx- Applied Calculus
+1) MITx Calculus Series :moneybag:
+2) Harvardx- Applied Calculus :moneybag:
 
-3) MITx Probability 
-4) Harvardx Probability 
+3) MITx Probability :moneybag:
+4) Harvardx Probability  :moneybag:
 
-5) MIT OCW Gilbert Strang Linear Algebra
-6) MIT OCW - [Matrix method in Data Analysis](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+5) MIT OCW Gilbert Strang Linear Algebra :free:
+6) MIT OCW - [Matrix method in Data Analysis](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) :free:
 
-7) NYU - Statistical and Mathematical Methods for Data Science
+7) NYU - Statistical and Mathematical Methods for Data Science :free:
 
-**Programming**
+**Programming** :moneybag:
 1) MITx - Intro to Programming 
 2) MITx - Intro to Computational Thinking 
 3) Computational Thinking - UPenn
 
-**Maths and Programming**
+**Maths and Programming** :moneybag:
 1) MITx - Probablistic Programming
 2) Harvardx - Python for Research
 
-**Data Science** 
+**Data Science**  :free:
 1) Harvard CS 109 A
 2) Harvard CS109 B
 3) NYU Introduction to Data Science 
 
 **Machine Learning**
-1) Stanfordx - Statistical Learning
-2) Stanfordx - Machine Learning (Coursera)
-3) MIT (open learning) - Intro to ML (undergrad) 
-4) MITx - Python ML - from Linear Model to DL (post grad)
-5) Caltech - Learning from Data
+1) Stanfordx - Statistical Learning :moneybag:
+2) Stanford - Machine Learning (Coursera) :moneybag:
+3) MIT (open learning) - Intro to ML (undergrad) :free:
+4) MITx - Python ML - from Linear Model to DL (post grad) :moneybag:
+5) Caltech - Learning from Data :free:
  
  
 ### Other Resources to consult
