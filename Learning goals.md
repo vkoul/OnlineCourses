@@ -234,3 +234,9 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 24. [Handpicked Resources for learning Deep Learning in 2020](https://towardsdatascience.com/handpicked-resources-for-learning-deep-learning-in-2020-e50c6768ab6e)	
 25. [An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning](https://github.com/soaicbe/ai_all_resources/blob/master/README.md)
 26. [How a Self-Taught Programmer Taught Himself Machine Learning in 10 Weeks](https://medium.com/paper-club/machine-learning-engineering-in-10-weeks-a9af8c739c6e)
+27. [ Becoming a Self-Taught Data Scientist](https://towardsdatascience.com/becoming-a-self-taught-data-scientist-5563f546bb7b)
+28. [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+29. [Complete guide to become a Data Scientist](https://towardsdatascience.com/complete-guide-to-become-a-data-scientist-1e08bc54688d)
+30. [https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
+31. [My Learning Plan for Getting Into Data Science from Scratch](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
+32. 
