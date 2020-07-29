@@ -26,6 +26,12 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  Intermediate ML
 - [ ]  Feature Engineering
 
+### FreeCodeCamp :free:
+- [ ] [Scientific Computing with Python](https://www.freecodecamp.org/learn/)
+- [ ] [Data Analysis with Python](https://www.freecodecamp.org/learn/)
+- [ ] [Machine Learning with Python](https://www.freecodecamp.org/learn/)
+
+
 ### Kevin Markham Videos :free:
 - [ ] [Machine learning with scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 - [ ] [Machine Learning](https://www.youtube.com/watch?v=8Oog7TXHvFY&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn)
@@ -239,4 +245,5 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 29. [Complete guide to become a Data Scientist](https://towardsdatascience.com/complete-guide-to-become-a-data-scientist-1e08bc54688d)
 30. [https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
 31. [My Learning Plan for Getting Into Data Science from Scratch](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
-32. 
+32. [Learn Data Science from Top Universities for Free](https://towardsdatascience.com/learn-data-science-from-top-universities-for-free-ee3387ad88ac)
+33. [ML Enginner Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
