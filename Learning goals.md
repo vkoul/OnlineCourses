@@ -124,8 +124,6 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ] Maths Refresher
 
 
-
-
 ## Theoretical
 
 ### Coursera :moneybag:
@@ -145,9 +143,10 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 #### ML :moneybag:
  - [ ] 8) ML in Python - Stanford
- - [ ] 9) Applied ML - MILA
- - [ ] 10) Intro to ML (HSE) *
- - [ ] 11) ML and Data Analysis Specialisation (MIPT)* 
+ - [ ] 9) Applied ML specialization- MILA
+ - [ ] 10) Machine Learning specialization - U Washington
+ - [ ] 11) Intro to ML (HSE) *
+ - [ ] 12) ML and Data Analysis Specialisation (MIPT)* 
 
 \* HSE and MIPT courses are in Russian. However, they are in collaboration with Yandex and have one of the best balanced practical exercises. The plan is to just attempt the exercises. 
 
@@ -173,11 +172,6 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 
 ### University Materials 
- - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions)  :free:
- - [ ] 2) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/) :free:
- - [ ] 3)  Computational Probability and Inference - (MITx)  :moneybag:
- - [ ] 4) CS 109A- Harvard  :free:
- - [ ] 5) CS109B- Harvard :free:
  
  ### Harvard / Stanford / MIT / NYU / Caltech Courses
 The Data Science master program essentially amounts to 10-12 graduate level courses. The US options are pretty expensive. There are also online offerings now, that despite being cheaper than the on-campus version are expensive especially for the developing country learners. 
@@ -199,10 +193,15 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 1) MITx - Intro to Programming 
 2) MITx - Intro to Computational Thinking 
 3) Computational Thinking - UPenn
+4) CME 193 - Scientific Python - Stanford  (multiple versions)  :free:
 
 **Maths and Programming** :moneybag:
 1) MITx - Probablistic Programming
 2) Harvardx - Python for Research
+3)  Computational Probability and Inference - (MITx)  
+4) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/) :free:
+
+
 
 **Data Science**  :free:
 1) Harvard CS 109 A
