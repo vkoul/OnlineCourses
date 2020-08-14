@@ -42,12 +42,16 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 ### Lambda School :free:
 - [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)  - Eight hands on assignments
 
-### [MLCourse.ai](https://mlcourse.ai/) :free:
-- [ ]   Data Scientist track  - very hands on, involves kaggle competitions. 
+### MLCourse.ai :free:
+- [ ]   [Data Scientist track](https://mlcourse.ai/)  - very hands on and involves kaggle competitions. 
 
 ### Algorithms from Scratch :free:
 - [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
 - [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
+
+### Amazon :free:
+- [ ] [Accelerated NLP](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+- [ ] [Accelerated ML ](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 ### Google :free:
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
@@ -144,7 +148,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 \* HSE and MIPT courses are in Russian. However, they are in collaboration with Yandex and have one of the best balanced practical exercises. The plan is to just attempt the exercises. 
 
 ### edx :moneybag:
- - [ ] 1) Computational Thinking XSeries - MITx
+ - [ ] 1) Computational Thinking xSeries - MITx
  - [ ] 2) Data Science and Statistics Micromasters - MITx
  - [ ] 3) Business Analytics Micromasters - Columbiax
  - [ ] 4) Data Science Micromasters - San Diego
@@ -161,10 +165,11 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
  - [ ] 9) Machine Learning Fundamentals (San Diego - edx) :moneybag:
  - [ ] 10) Machine Learning - (CMU - YT) [2020]  :free:
  - [ ] 11) [Machine Learning - (VU Univ, Amsterdam)](https://mlvu.github.io/) :free:
+ - [ ] 11) [Machine Learning - (IITB, India)](https://shala2020.github.io/) :free:
 
 
 ### University Materials 
- - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions)  :free:
+ - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions) :free:
  - [ ] 2) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/) :free:
  - [ ] 3)  Computational Probability and Inference - (MITx)  :moneybag:
  - [ ] 4) CS 109A- Harvard  :free:
