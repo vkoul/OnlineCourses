@@ -42,51 +42,20 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 ### Lambda School :free:
 - [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)  - Eight hands on assignments
 
-### MLCourse.ai :free:
-- [ ]   [Data Scientist track](https://mlcourse.ai/)  - very hands on and involves kaggle competitions. 
+### [MLCourse.ai](https://mlcourse.ai/) :free:
+- [ ]   [Data Scientist track](https://mlcourse.ai/)  - very hands on, and involves kaggle competitions. 
 
 ### Algorithms from Scratch :free:
 - [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
 - [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
 
-### Amazon :free:
+### Google :free:
+- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)Amazon :free:
 - [ ] [Accelerated NLP](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 - [ ] [Accelerated ML ](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 ### Google :free:
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
-
-### Udacity Projects :free:
-#### [Udacity Data Analyst Projects](https://github.com/udacity/data-analyst/tree/master/projects_zh) :free:
-- [ ] P0 Bike Sharing
-- [ ] P1 Stroop Test
-- [ ] P2 Investigate Dataset
-- [ ] P3 Wrangle Data
-- [ ] P4 Explore Data
-- [ ] P5 Machine Learning
-- [ ] P6 Data Viz
-- [ ]  P7 Ab Test
-- [ ] [Old] P0 Chopstick Length
-
-#### [Udacity Machine Learning Projects](https://github.com/udacity/machine-learning/tree/master/projects) :free:
-- [ ]  Boston Housing
-- [ ]  Customer Segments
-- [ ]  Digit Recognition
-- [ ]  Finding Donors
-- [ ]  Image-Classification
-- [ ]  Intro-To-Tensorflow
-- [ ]  Practice Projects
-- [ ]  Smartcab
-- [ ]  Student Intervention
-- [ ]  Titanic Survival Exploration
-
-#### [Project: Getting Started with Iterative Product Management](https://github.com/udacity/nanodegree-data-products-course-3/blob/master/archive/backup_dpmnd_c3_solutions.ipynb) :free:
-
-### [K2 Data Science - Foundations Program](https://github.com/k2datascience/ds-foundations/wiki) :free:
-- [ ] CS and Python
-- [ ] SQL and Relational DBs
-- [ ] Python Data Analysis
-- [ ] Maths Refresher
 
 ### Datacamp   :moneybag:
 - [ ]  Python Programmer skill track 
@@ -122,6 +91,41 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  [Machine Learning](https://www.sololearn.com/Course/machine-learning/)
 
 
+### Udacity Projects :free:
+#### [Udacity Data Analyst Projects](https://github.com/udacity/data-analyst/tree/master/projects_zh) :free:
+- [ ] P0 Bike Sharing
+- [ ] P1 Stroop Test
+- [ ] P2 Investigate Dataset
+- [ ] P3 Wrangle Data
+- [ ] P4 Explore Data
+- [ ] P5 Machine Learning
+- [ ] P6 Data Viz
+- [ ]  P7 Ab Test
+- [ ] [Old] P0 Chopstick Length
+
+#### [Udacity Machine Learning Projects](https://github.com/udacity/machine-learning/tree/master/projects) :free:
+- [ ]  Boston Housing
+- [ ]  Customer Segments
+- [ ]  Digit Recognition
+- [ ]  Finding Donors
+- [ ]  Image-Classification
+- [ ]  Intro-To-Tensorflow
+- [ ]  Practice Projects
+- [ ]  Smartcab
+- [ ]  Student Intervention
+- [ ]  Titanic Survival Exploration
+
+#### [Project: Getting Started with Iterative Product Management](https://github.com/udacity/nanodegree-data-products-course-3/blob/master/archive/backup_dpmnd_c3_solutions.ipynb) :free:
+
+### [K2 Data Science - Foundations Program](https://github.com/k2datascience/ds-foundations/wiki) :free:
+- [ ] CS and Python
+- [ ] SQL and Relational DBs
+- [ ] Python Data Analysis
+- [ ] Maths Refresher
+
+
+
+
 ## Theoretical
 
 ### Coursera :moneybag:
@@ -148,7 +152,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 \* HSE and MIPT courses are in Russian. However, they are in collaboration with Yandex and have one of the best balanced practical exercises. The plan is to just attempt the exercises. 
 
 ### edx :moneybag:
- - [ ] 1) Computational Thinking xSeries - MITx
+ - [ ] 1) Computational Thinking XxSeries - MITx
  - [ ] 2) Data Science and Statistics Micromasters - MITx
  - [ ] 3) Business Analytics Micromasters - Columbiax
  - [ ] 4) Data Science Micromasters - San Diego
@@ -169,7 +173,7 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 
 
 ### University Materials 
- - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions) :free:
+ - [ ] 1) CME 193 - Scientific Python - Stanford  (multiple versions)  :free:
  - [ ] 2) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/) :free:
  - [ ] 3)  Computational Probability and Inference - (MITx)  :moneybag:
  - [ ] 4) CS 109A- Harvard  :free:
