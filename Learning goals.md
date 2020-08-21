@@ -49,8 +49,8 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
 - [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
 
-### Google :free:
-- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)Amazon :free:
+### Amazon :free:
+- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning):free:
 - [ ] [Accelerated NLP](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 - [ ] [Accelerated ML ](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
