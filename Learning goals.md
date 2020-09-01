@@ -32,30 +32,29 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ] [Machine Learning with Python](https://www.freecodecamp.org/learn/)
 
 
-### Kevin Markham Videos :free:
-- [ ] [Machine learning with scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
-- [ ] [Machine Learning](https://www.youtube.com/watch?v=8Oog7TXHvFY&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn)
-
-### Analytics Vidhya :free:
-- [ ] [Data Science Tips and Tricks](https://courses.analyticsvidhya.com/courses/take/data-science-hacks-tips-and-tricks)
-
 ### Lambda School :free:
 - [ ]  [Pre- DS Course work](https://learn.lambdaschool.com/ds-pre/sprint/recimtnGaWpVMMDZw)  - Eight hands on assignments
 
 ### [MLCourse.ai](https://mlcourse.ai/) :free:
 - [ ]   [Data Scientist track](https://mlcourse.ai/)  - very hands on, and involves kaggle competitions. 
 
-### Algorithms from Scratch :free:
-- [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
-- [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
-
 ### Amazon :free:
-- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning):free:
-- [ ] [Accelerated NLP](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 - [ ] [Accelerated ML ](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+- [ ] [Accelerated NLP](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 ### Google :free:
 - [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning)
+
+
+### Miscellaneous :free:
+- [ ] [Elements of Data Science by Allen Dowey](https://allendowney.github.io/ElementsOfDataScience/) :free:
+- [ ]   [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Github repository
+- [ ]   [Machine Learning From Scratch- Python Tutorial Videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) 
+- [ ] [Machine learning with scikit-learn](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [ ] [Machine Learning](https://www.youtube.com/watch?v=8Oog7TXHvFY&list=PL5-da3qGB5IA_x9xJ7qzUyU1XJwOJsFAn)
+- [ ] [Data Science Tips and Tricks](https://courses.analyticsvidhya.com/courses/take/data-science-hacks-tips-and-tricks)
+- [ ] [Data Scientist Survial Guide](https://github.com/MMBazel/Data-Scientist-Survival-Guide/wiki) :free:
+- This is inspired by the curriculum put together by Springboard 
 
 ### Datacamp   :moneybag:
 - [ ]  Python Programmer skill track 
@@ -81,9 +80,6 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
 - [ ]  Road to Calculus
 - [ ]  Statistics and Probability
 - [ ]  Advanced Mathematics
-
-### [Data Scientist Survial Guide](https://github.com/MMBazel/Data-Scientist-Survival-Guide/wiki) :free:
-- This is inspired by the curriculum put together by Springboard 
 
 ### [Sololearn](https://www.sololearn.com/) :free:
 - [ ]  [Python 3](https://www.sololearn.com/Course/Python/)
@@ -164,11 +160,11 @@ There are also many excellent books by Springer, Manning and Oreilly. I have not
  - [ ] 5) Machine Learning - (CMU - YT) [2015]  :free:
  - [ ] 6) Machine Learning (UBC - YT)   :free:
  - [ ] 7) Machine Learning (IIT-M - YT)   :free:
- - [ ] 8) Machine Learning (Columbia - edx) :moneybag:
- - [ ] 9) Machine Learning Fundamentals (San Diego - edx) :moneybag:
- - [ ] 10) Machine Learning - (CMU - YT) [2020]  :free:
- - [ ] 11) [Machine Learning - (VU Univ, Amsterdam)](https://mlvu.github.io/) :free:
- - [ ] 11) [Machine Learning - (IITB, India)](https://shala2020.github.io/) :free:
+ - [ ] 8) Machine Learning - (CMU - YT) [2020]  :free:
+ - [ ] 9) [Machine Learning - (VU Univ, Amsterdam)](https://mlvu.github.io/) :free:
+ - [ ] 10) [Machine Learning - (IITB, India)](https://shala2020.github.io/) :free:
+ - [ ] 11) Machine Learning (Columbia - edx) :moneybag:
+ - [ ] 12) Machine Learning Fundamentals (San Diego - edx) :moneybag:
 
 
 ### University Materials 
@@ -220,38 +216,41 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 
 Many folks/organisations have embarked on designing their own ML/DS Masters and Learning program. Links below:
 
-0. [THE MOST EXHAUSTIVE LIST OF ONLINE ML COURSES/](https://deep-learning-drizzle.github.io/)
-1. [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
-2.  [Open Source Society University](https://github.com/ossu/data-science)
-3. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
+0. [How Beginners Get It Wrong In Machine Learning](https://machinelearningmastery.com/beginners-get-it-wrong/) : **READ THIS FIRST**
+1. [Need Help Getting Started with Applied Machine Learning](https://machinelearningmastery.com/start-here/#getstarted)
+2. [THE MOST EXHAUSTIVE LIST OF ONLINE ML COURSES/](https://deep-learning-drizzle.github.io/)
+13. [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
+24.  [Open Source Society University](https://github.com/ossu/data-science)
+35. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
 
-4. [Machine Learning Path- Coursera](https://careers.coursera.org/machine-learning-engineer/)
-5. [Data Scientist Path- Coursera](https://careers.coursera.org/data-scientist/)
-6. [Data Analyst- Coursera](https://careers.coursera.org/data-analyst/)
-7. [Business Analyst- Coursera](https://careers.coursera.org/business-analyst/)
-8. [Data Engineer](https://careers.coursera.org/data-engineer/)
-9.  [Everything you need to become a self-taught Machine Learning Engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
-10. [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
-11.  [How to Learn Machine Learning - The Self Starter way](https://elitedatascience.com/learn-machine-learning)
-12. [How to become a Machine Learning Engineer - Springboard](https://www.springboard.com/blog/how-to-become-a-machine-learning-engineer/)
-13. [How did I land a job in DS field with a master’s degree?](https://towardsdatascience.com/my-way-to-break-into-data-science-international-student-interdisciplinary-e5208dead396)
-14. [My Machine Learning Path](https://hackernoon.com/my-machine-learning-path-cb6edab4630)
-15. [How to Get Started as a Developer in AI](https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f)
-16. [The Open Source Data Science Masters](http://datasciencemasters.org/)
-17. [How to get a ML Engineering job in 2020](https://blog.usejournal.com/how-to-get-a-machine-learning-engineering-job-in-2020-also-why-536702e6529f?gi=db26eedd3886)
-18. [32 Data Sets to Uplift your Skills in Data Science](https://blog.datasciencedojo.com/data-sets-data-science-skills/amp/)
-19. [ML- Tokyo- AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/README.md)
-20. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
-21. [ML Study Plan](https://github.com/python-engineer/ml-study-plan)  - [Video explaining the plan](https://www.youtube.com/watch?v=dYvt3vSJaQA)
-22. [MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI)
-23. [I designed my own ML/AI degree](https://medium.com/better-programming/i-designed-my-own-machine-learning-and-artificial-intelligence-degree-5a61bfb188bb)
-24. [Handpicked Resources for learning Deep Learning in 2020](https://towardsdatascience.com/handpicked-resources-for-learning-deep-learning-in-2020-e50c6768ab6e)	
-25. [An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning](https://github.com/soaicbe/ai_all_resources/blob/master/README.md)
-26. [How a Self-Taught Programmer Taught Himself Machine Learning in 10 Weeks](https://medium.com/paper-club/machine-learning-engineering-in-10-weeks-a9af8c739c6e)
-27. [ Becoming a Self-Taught Data Scientist](https://towardsdatascience.com/becoming-a-self-taught-data-scientist-5563f546bb7b)
-28. [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
-29. [Complete guide to become a Data Scientist](https://towardsdatascience.com/complete-guide-to-become-a-data-scientist-1e08bc54688d)
-30. [https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
-31. [My Learning Plan for Getting Into Data Science from Scratch](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
-32. [Learn Data Science from Top Universities for Free](https://towardsdatascience.com/learn-data-science-from-top-universities-for-free-ee3387ad88ac)
-33. [ML Enginner Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+46. [Machine Learning Path- Coursera](https://careers.coursera.org/machine-learning-engineer/)
+57. [Data Scientist Path- Coursera](https://careers.coursera.org/data-scientist/)
+68. [Data Analyst- Coursera](https://careers.coursera.org/data-analyst/)
+79. [Business Analyst- Coursera](https://careers.coursera.org/business-analyst/)
+810. [Data Engineer](https://careers.coursera.org/data-engineer/)
+911.  [Everything you need to become a self-taught Machine Learning Engineer](https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631)
+102. [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+113.  [How to Learn Machine Learning - The Self Starter way](https://elitedatascience.com/learn-machine-learning)
+124. [How to become a Machine Learning Engineer - Springboard](https://www.springboard.com/blog/how-to-become-a-machine-learning-engineer/)
+135. [How did I land a job in DS field with a master’s degree?](https://towardsdatascience.com/my-way-to-break-into-data-science-international-student-interdisciplinary-e5208dead396)
+146. [My Machine Learning Path](https://hackernoon.com/my-machine-learning-path-cb6edab4630)
+157. [How to Get Started as a Developer in AI](https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f)
+168. [The Open Source Data Science Masters](http://datasciencemasters.org/)
+179. [How to get a ML Engineering job in 2020](https://blog.usejournal.com/how-to-get-a-machine-learning-engineering-job-in-2020-also-why-536702e6529f?gi=db26eedd3886)
+1820. [32 Data Sets to Uplift your Skills in Data Science](https://blog.datasciencedojo.com/data-sets-data-science-skills/amp/)
+219. [ML- Tokyo- AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/README.md)
+202. [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses/blob/master/README.md)
+213. [ML Study Plan](https://github.com/python-engineer/ml-study-plan)  - [Video explaining the plan](https://www.youtube.com/watch?v=dYvt3vSJaQA)
+224. [MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI)
+235. [I designed my own ML/AI degree](https://medium.com/better-programming/i-designed-my-own-machine-learning-and-artificial-intelligence-degree-5a61bfb188bb)
+246. [Handpicked Resources for learning Deep Learning in 2020](https://towardsdatascience.com/handpicked-resources-for-learning-deep-learning-in-2020-e50c6768ab6e)	
+257. [An Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning](https://github.com/soaicbe/ai_all_resources/blob/master/README.md)
+268. [How a Self-Taught Programmer Taught Himself Machine Learning in 10 Weeks](https://medium.com/paper-club/machine-learning-engineering-in-10-weeks-a9af8c739c6e)
+279. [ Becoming a Self-Taught Data Scientist](https://towardsdatascience.com/becoming-a-self-taught-data-scientist-5563f546bb7b)
+2830. [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c)
+2931. [Complete guide to become a Data Scientist](https://towardsdatascience.com/complete-guide-to-become-a-data-scientist-1e08bc54688d)
+302. [https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
+313. [My Learning Plan for Getting Into Data Science from Scratch](https://towardsdatascience.com/my-learning-plan-for-getting-into-data-science-from-scratch-9562f37b4dde)
+324. [Learn Data Science from Top Universities for Free](https://towardsdatascience.com/learn-data-science-from-top-universities-for-free-ee3387ad88ac)
+335. [ML Enginner Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+36. [A long-term Data Science roadmap which WON’T help you become an expert in only several months](https://towardsdatascience.com/a-long-term-data-science-roadmap-which-wont-help-you-become-an-expert-in-only-several-months-4436733e63ff)
