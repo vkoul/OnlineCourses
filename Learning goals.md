@@ -192,7 +192,7 @@ I am noting down top notch (as per me) courses from the Top US universities. If 
 4) CME 193 - Scientific Python - Stanford  (multiple versions)  :free:
 
 **Maths and Programming** :moneybag:
-1) MITx - Probablistic Programming
+1) MITx - Probabilistic Programming
 2) Harvardx - Python for Research
 3)  Computational Probability and Inference - (MITx)  
 4) [Intro to AI with Python - Harvard](https://cs50.harvard.edu/extension/ai/2020/spring/) :free:
@@ -222,7 +222,6 @@ Many folks/organisations have embarked on designing their own ML/DS Masters and 
 13. [Open Source Masters Degree](https://github.com/TraceMyers/open-source-degree)
 24.  [Open Source Society University](https://github.com/ossu/data-science)
 35. [Master your path- Google](https://www.tensorflow.org/resources/learn-ml)
-
 46. [Machine Learning Path- Coursera](https://careers.coursera.org/machine-learning-engineer/)
 57. [Data Scientist Path- Coursera](https://careers.coursera.org/data-scientist/)
 68. [Data Analyst- Coursera](https://careers.coursera.org/data-analyst/)
