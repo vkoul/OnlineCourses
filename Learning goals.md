@@ -10,7 +10,7 @@ Put together with :heart: by Vikesh. Say Hi!:wave:
 - Become a pro in Python :snake: programming language
 - Ability to write ML and Stats algos from scratch in Python 
 
-I have noted down resources (free :free: and paid :moneybag:)  which will help me master the different aspects of ML. This is an exhaustive list and currently I am concerned with introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
+I have noted down resources (free :free: and paid :moneybag:) which will help me master the different aspects of ML. This is an exhaustive list concerning introductory ML stuff. It contains both paid and free resources. Attempting to do all of them will take many months/years. Learners can focus on the ones which look interesting to them. 
 There are also many excellent books by Springer, Manning and Oreilly. I have not included them currently.
 
 
